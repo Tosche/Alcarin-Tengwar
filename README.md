@@ -4,7 +4,7 @@ Alcarin Tengwar is an open-source Tengwar typeface designed to pair well with th
 
 It is designed to look more typographic and of high quality, with academic context in mind. More detailed design notes can be seen [here](https://tosche.net/fonts/alcarin-tengwar).
 
-The word 'alcarin' means 'brilliant' in the Quenya language, one of the many invented languages by J.R.R. Tolkien.
+The word 'alcarin' means 'brilliant' in the Quenya language, the High-Elven language by J.R.R. Tolkien.
 
 ### Disclaimer
 The Brill fonts are owned by Koninklijke Brill NV. They are not licensed under the OFL but under licenses of their own, both non-commercial and commercial.
