@@ -1,0 +1,2200 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--This is Toshi Omagari’s custom version of tengwarQWERTY, made on 2022-1-1.&#x000A;Original comment:&#x000A;This is tengwarQWERTY, version 2009-12-12.-->
+<!--Copyright 2009 j. 'mach' wust-->
+<!--tengwarQWERTY is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	tengwarQWERTY is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with U.S.-tengwarQWERTY. If not, see <http://www.gnu.org/licenses/>.-->
+<!--When capslock is not pressed, tengwarQWERTY produces general-use-ish tengwar
+	in a fashion that resembles the QWERTY mapping. In escpecial, the common vowel keys
+	will produce ómatehtar. Capslock mode only affects these vowel keys, swapped for
+	their corresponding tengwar in order to ease full writing typing.-->
+<!--Last edited by Ukelele version 346 on 2022-01-02 at 18:28 (GMT)-->
+<keyboard group="0" id="2455" name="TengwarQWERTY Toshi" maxout="1">
+    <layouts>
+        <layout first="0" last="17" mapSet="ANSI" modifiers="commonModifiers"/>
+        <layout first="18" last="18" mapSet="JIS" modifiers="commonModifiers"/>
+        <layout first="21" last="23" mapSet="JIS" modifiers="commonModifiers"/>
+        <layout first="30" last="30" mapSet="JIS" modifiers="commonModifiers"/>
+        <layout first="194" last="194" mapSet="JIS" modifiers="commonModifiers"/>
+        <layout first="197" last="197" mapSet="JIS" modifiers="commonModifiers"/>
+        <layout first="200" last="201" mapSet="JIS" modifiers="commonModifiers"/>
+        <layout first="206" last="207" mapSet="JIS" modifiers="commonModifiers"/>
+    </layouts>
+    <modifierMap id="commonModifiers" defaultIndex="0">
+        <keyMapSelect mapIndex="0">
+            <modifier keys="anyShift? command"/>
+            <modifier keys="anyShift? caps command"/>
+            <modifier keys="anyShift? anyOption? command? anyControl"/>
+            <modifier keys="anyShift? caps anyOption? command? anyControl"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="1">
+            <modifier keys="anyShift? anyOption command"/>
+            <modifier keys="anyShift? caps anyOption command"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="2">
+            <modifier keys=""/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="3">
+            <modifier keys="anyShift"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="4">
+            <modifier keys="caps? anyOption"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="5">
+            <modifier keys="anyShift caps? anyOption"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="6">
+            <modifier keys="caps"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="7">
+            <!---->
+            <modifier keys="anyShift caps"/>
+        </keyMapSelect>
+    </modifierMap>
+    <keyMapSet id="ANSI">
+        <keyMap index="0">
+            <!--command (control should also use these, but this does not work)-->
+            <key code="0" output="a"/>
+            <!--This is Toshi Omagari’s custom version (2022-1-1) of tengwarQWERTY, version (2009-12-12), originally created by Free Tengwar Font Project.-->
+            <key code="1" output="s"/>
+            <!--s-->
+            <key code="2" output="d"/>
+            <!--d-->
+            <key code="3" output="f"/>
+            <!--f-->
+            <key code="4" output="h"/>
+            <!--h-->
+            <key code="5" output="g"/>
+            <!--g-->
+            <key code="6" output="z"/>
+            <!--z-->
+            <key code="7" output="x"/>
+            <!--x-->
+            <key code="8" output="c"/>
+            <!--c-->
+            <key code="9" output="v"/>
+            <!--v-->
+            <key code="10" output="§"/>
+            <!--§ (ISO)-->
+            <key code="11" output="b"/>
+            <!--b-->
+            <key code="12" output="q"/>
+            <!--q-->
+            <key code="13" output="w"/>
+            <!--w-->
+            <key code="14" output="e"/>
+            <!--e-->
+            <key code="15" output="r"/>
+            <!--r-->
+            <key code="16" output="y"/>
+            <!--y-->
+            <key code="17" output="t"/>
+            <!--t-->
+            <key code="18" output="1"/>
+            <!--1-->
+            <key code="19" output="2"/>
+            <!--2-->
+            <key code="20" output="3"/>
+            <!--3-->
+            <key code="21" output="4"/>
+            <!--4-->
+            <key code="22" output="6"/>
+            <!--6-->
+            <key code="23" output="5"/>
+            <!--5-->
+            <key code="24" output="="/>
+            <!--=-->
+            <key code="25" output="9"/>
+            <!--9-->
+            <key code="26" output="7"/>
+            <!--7-->
+            <key code="27" output="-"/>
+            <!--- -->
+            <key code="28" output="8"/>
+            <!--8-->
+            <key code="29" output="0"/>
+            <!--0-->
+            <key code="30" output="]"/>
+            <!--]-->
+            <key code="31" output="o"/>
+            <!--o-->
+            <key code="32" output="u"/>
+            <!--u-->
+            <key code="33" output="["/>
+            <!--[-->
+            <key code="34" output="i"/>
+            <!--i-->
+            <key code="35" output="p"/>
+            <!--p-->
+            <key code="36" output="&#x000D;"/>
+            <!--CARRIAGE RETURN-->
+            <key code="37" output="l"/>
+            <!--l-->
+            <key code="38" output="j"/>
+            <!--j-->
+            <key code="39" output="&#x0027;"/>
+            <!--'-->
+            <key code="40" output="k"/>
+            <!--k-->
+            <key code="41" output=";"/>
+            <!--;-->
+            <key code="42" output="\"/>
+            <!--\-->
+            <key code="43" output=","/>
+            <!--,-->
+            <key code="44" output="/"/>
+            <!--/-->
+            <key code="45" output="n"/>
+            <!--n-->
+            <key code="46" output="m"/>
+            <!--m-->
+            <key code="47" output="."/>
+            <!--.-->
+            <key code="48" output="&#x0009;"/>
+            <!--HORIZONTAL TABULATION-->
+            <key code="49" output=" "/>
+            <!-- -->
+            <key code="50" output="`"/>
+            <!--`-->
+            <key code="51" output="&#x0008;"/>
+            <!--BACKSPACE-->
+            <key code="52" output="&#x0003;"/>
+            <!--END OF TEXT (the key on the right of the right ⌘key)-->
+            <key code="53" output="&#x001B;"/>
+            <!--ESCAPE-->
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <!--numpad-->
+            <key code="66" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="67" output="*"/>
+            <!--numpad-->
+            <key code="69" output="+"/>
+            <!--numpad-->
+            <key code="70" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="71" output="&#x001B;"/>
+            <!--ESCAPE (not the one on the upper right)-->
+            <key code="72" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="75" output="/"/>
+            <!--numpad-->
+            <key code="76" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="77" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+            <key code="78" output="-"/>
+            <!--numpad-->
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <!--numpad-->
+            <key code="82" output="0"/>
+            <!--numpad-->
+            <key code="83" output="1"/>
+            <!--numpad-->
+            <key code="84" output="2"/>
+            <!--numpad-->
+            <key code="85" output="3"/>
+            <!--numpad-->
+            <key code="86" output="4"/>
+            <!--numpad-->
+            <key code="87" output="5"/>
+            <!--numpad-->
+            <key code="88" output="6"/>
+            <!--numpad-->
+            <key code="89" output="7"/>
+            <!--numpad-->
+            <key code="91" output="8"/>
+            <!--numpad-->
+            <key code="92" output="9"/>
+            <!--numpad-->
+            <key code="96" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="97" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="98" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="99" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="100" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="101" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="102" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="103" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="104" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="105" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="106" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="107" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="108" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="109" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="110" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="111" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="112" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="113" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="114" output="&#x0005;"/>
+            <!--ENQUIRY-->
+            <key code="115" output="&#x0001;"/>
+            <!--START OF HEADING-->
+            <key code="116" output="&#x000B;"/>
+            <!--VERTICAL TABULATION-->
+            <key code="117" output="&#x007F;"/>
+            <!--DELETE-->
+            <key code="118" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="119" output="&#x0004;"/>
+            <!--END OF TRANSMISSION-->
+            <key code="120" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="121" output="&#x000C;"/>
+            <!--FORM FEED-->
+            <key code="122" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="123" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="124" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="125" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="126" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+        </keyMap>
+        <keyMap index="1">
+            <!--command-option-->
+            <key code="0" output="å"/>
+            <!--⌥⌘a-->
+            <key code="1" output="ß"/>
+            <!--⌥⌘s-->
+            <key code="2" output="∂"/>
+            <!--⌥⌘d-->
+            <key code="3" output="ƒ"/>
+            <!--⌥⌘f-->
+            <key code="4" output="˙"/>
+            <!--⌥⌘h-->
+            <key code="5" output="©"/>
+            <!--⌥⌘g-->
+            <key code="6" output="Ω"/>
+            <!--⌥⌘z-->
+            <key code="7" output="≈"/>
+            <!--⌥⌘x-->
+            <key code="8" output="ç"/>
+            <!--⌥⌘c-->
+            <key code="9" output="√"/>
+            <!--⌥⌘v-->
+            <key code="10" output="§"/>
+            <!--⌥⌘§ (ISO)-->
+            <key code="11" output="∫"/>
+            <!--⌥⌘b-->
+            <key code="12" output="œ"/>
+            <!--⌥⌘q-->
+            <key code="13" output="∑"/>
+            <!--⌥⌘w-->
+            <key code="14" output="´"/>
+            <!--⌥⌘e-->
+            <key code="15" output="®"/>
+            <!--⌥⌘r-->
+            <key code="16" output="¥"/>
+            <!--⌥⌘y-->
+            <key code="17" output="†"/>
+            <!--⌥⌘t-->
+            <key code="18" output="¡"/>
+            <!--⌥⌘1-->
+            <key code="19" output="™"/>
+            <!--⌥⌘2-->
+            <key code="20" output="£"/>
+            <!--⌥⌘3-->
+            <key code="21" output="¢"/>
+            <!--⌥⌘4-->
+            <key code="22" output="§"/>
+            <!--⌥⌘6-->
+            <key code="23" output="∞"/>
+            <!--⌥⌘5-->
+            <key code="24" output="≠"/>
+            <!--⌥⌘=-->
+            <key code="25" output="ª"/>
+            <!--⌥⌘9-->
+            <key code="26" output="¶"/>
+            <!--⌥⌘7-->
+            <key code="27" output="–"/>
+            <!--⌥⌘- -->
+            <key code="28" output="•"/>
+            <!--⌥⌘8-->
+            <key code="29" output="º"/>
+            <!--⌥⌘0-->
+            <key code="30" output="‘"/>
+            <!--⌥⌘]-->
+            <key code="31" output="ø"/>
+            <!--⌥⌘o-->
+            <key code="32" output="¨"/>
+            <!--⌥⌘u-->
+            <key code="33" output="“"/>
+            <!--⌥⌘[-->
+            <key code="34" output="^"/>
+            <!--⌥⌘i-->
+            <key code="35" output="π"/>
+            <!--⌥⌘p-->
+            <key code="36" output="&#x000D;"/>
+            <!--CARRIAGE RETURN-->
+            <key code="37" output="¬"/>
+            <!--⌥⌘l-->
+            <key code="38" output="∆"/>
+            <!--⌥⌘j-->
+            <key code="39" output="æ"/>
+            <!--⌥⌘'-->
+            <key code="40" output="˚"/>
+            <!--⌥⌘k-->
+            <key code="41" output="…"/>
+            <!--⌥⌘;-->
+            <key code="42" output="«"/>
+            <!--⌥⌘\-->
+            <key code="43" output="≤"/>
+            <!--⌥⌘,-->
+            <key code="44" output="÷"/>
+            <!--⌥⌘/-->
+            <key code="45" output="~"/>
+            <!--⌥⌘n-->
+            <key code="46" output="µ"/>
+            <!--⌥⌘m-->
+            <key code="47" output="≥"/>
+            <!--⌥⌘.-->
+            <key code="48" output="&#x0009;"/>
+            <!--HORIZONTAL TABULATION-->
+            <key code="49" output=" "/>
+            <!--⌥⌘ -->
+            <key code="50" output="`"/>
+            <!--⌥⌘`-->
+            <key code="51" output="&#x0008;"/>
+            <!--BACKSPACE-->
+            <key code="52" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="53" output="&#x001B;"/>
+            <!--ESCAPE-->
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <!--numpad-->
+            <key code="66" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="67" output="*"/>
+            <!--numpad-->
+            <key code="69" output="+"/>
+            <!--numpad-->
+            <key code="70" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="71" output="&#x001B;"/>
+            <!--ESCAPE (not the one on the upper right)-->
+            <key code="72" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="75" output="/"/>
+            <!--numpad-->
+            <key code="76" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="77" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+            <key code="78" output="-"/>
+            <!--numpad-->
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <!--numpad-->
+            <key code="82" output="0"/>
+            <!--numpad-->
+            <key code="83" output="1"/>
+            <!--numpad-->
+            <key code="84" output="2"/>
+            <!--numpad-->
+            <key code="85" output="3"/>
+            <!--numpad-->
+            <key code="86" output="4"/>
+            <!--numpad-->
+            <key code="87" output="5"/>
+            <!--numpad-->
+            <key code="88" output="6"/>
+            <!--numpad-->
+            <key code="89" output="7"/>
+            <!--numpad-->
+            <key code="91" output="8"/>
+            <!--numpad-->
+            <key code="92" output="9"/>
+            <!--numpad-->
+            <key code="96" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="97" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="98" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="99" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="100" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="101" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="102" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="103" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="104" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="105" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="106" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="107" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="108" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="109" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="110" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="111" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="112" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="113" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="114" output="&#x0005;"/>
+            <!--ENQUIRY-->
+            <key code="115" output="&#x0001;"/>
+            <!--START OF HEADING-->
+            <key code="116" output="&#x000B;"/>
+            <!--VERTICAL TABULATION-->
+            <key code="117" output="&#x007F;"/>
+            <!--DELETE-->
+            <key code="118" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="119" output="&#x0004;"/>
+            <!--END OF TRANSMISSION-->
+            <key code="120" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="121" output="&#x000C;"/>
+            <!--FORM FEED-->
+            <key code="122" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="123" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="124" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="125" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="126" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+        </keyMap>
+        <keyMap index="2">
+            <!--no modifiers-->
+            <key code="0" output=""/>
+            <!--a-->
+            <key code="1" output=""/>
+            <!--s-->
+            <key code="2" output=""/>
+            <!--d-->
+            <key code="3" output=""/>
+            <!--f-->
+            <key code="4" output=""/>
+            <!--h-->
+            <key code="5" output=""/>
+            <!--g-->
+            <key code="6" output=""/>
+            <!--z-->
+            <key code="7" output=""/>
+            <!--x-->
+            <key code="8" output=""/>
+            <!--c-->
+            <key code="9" output=""/>
+            <!--v-->
+            <key code="10" output=""/>
+            <!--§ (ISO)-->
+            <key code="11" output=""/>
+            <!--b-->
+            <key code="12" output=""/>
+            <!--q-->
+            <key code="13" output=""/>
+            <!--w-->
+            <key code="14" output=""/>
+            <!--e-->
+            <key code="15" output=""/>
+            <!--r-->
+            <key code="16" output=""/>
+            <!--y-->
+            <key code="17" output=""/>
+            <!--t-->
+            <key code="18" output=""/>
+            <!--1-->
+            <key code="19" output=""/>
+            <!--2-->
+            <key code="20" output=""/>
+            <!--3-->
+            <key code="21" output=""/>
+            <!--4-->
+            <key code="22" output=""/>
+            <!--6-->
+            <key code="23" output=""/>
+            <!--5-->
+            <key code="24" output=""/>
+            <!--=-->
+            <key code="25" output=""/>
+            <!--9-->
+            <key code="26" output=""/>
+            <!--7-->
+            <key code="27" output=""/>
+            <!-- - -->
+            <key code="28" output=""/>
+            <!--8-->
+            <key code="29" output=""/>
+            <!--0-->
+            <key code="30" output=""/>
+            <!--]-->
+            <key code="31" output=""/>
+            <!--o-->
+            <key code="32" output=""/>
+            <!--u-->
+            <key code="33" output=""/>
+            <!--[-->
+            <key code="34" output=""/>
+            <!--i-->
+            <key code="35" output=""/>
+            <!--p-->
+            <key code="36" output="&#x000D;"/>
+            <!--CARRIAGE RETURN-->
+            <key code="37" output=""/>
+            <!--l-->
+            <key code="38" output=""/>
+            <!--j-->
+            <key code="39" output=""/>
+            <!--'-->
+            <key code="40" output=""/>
+            <!--k-->
+            <key code="41" output="჻"/>
+            <!--;-->
+            <key code="42" output=""/>
+            <!--\-->
+            <key code="43" output="·"/>
+            <!--,-->
+            <key code="44" output=""/>
+            <!--/-->
+            <key code="45" output=""/>
+            <!--n-->
+            <key code="46" output=""/>
+            <!--m-->
+            <key code="47" output="⁘"/>
+            <!--.-->
+            <key code="48" output="&#x0009;"/>
+            <!--HORIZONTAL TABULATION-->
+            <key code="49" output=" "/>
+            <!-- -->
+            <key code="50" output=""/>
+            <!--`-->
+            <key code="51" output="&#x0008;"/>
+            <!--BACKSPACE-->
+            <key code="52" output="&#x0003;"/>
+            <!--END OF TEXT (the key on the right of the right ⌘key)-->
+            <key code="53" output="&#x001B;"/>
+            <!--ESCAPE-->
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <!--numpad-->
+            <key code="66" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="67" output="*"/>
+            <!--numpad-->
+            <key code="69" output="+"/>
+            <!--numpad-->
+            <key code="70" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="71" output="&#x001B;"/>
+            <!--ESCAPE (not the one on the upper right)-->
+            <key code="72" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="75" output="/"/>
+            <!--numpad-->
+            <key code="76" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="77" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+            <key code="78" output="-"/>
+            <!--numpad-->
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <!--numpad-->
+            <key code="82" output="0"/>
+            <!--numpad-->
+            <key code="83" output="1"/>
+            <!--numpad-->
+            <key code="84" output="2"/>
+            <!--numpad-->
+            <key code="85" output="3"/>
+            <!--numpad-->
+            <key code="86" output="4"/>
+            <!--numpad-->
+            <key code="87" output="5"/>
+            <!--numpad-->
+            <key code="88" output="6"/>
+            <!--numpad-->
+            <key code="89" output="7"/>
+            <!--numpad-->
+            <key code="91" output="8"/>
+            <!--numpad-->
+            <key code="92" output="9"/>
+            <!--numpad-->
+            <key code="96" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="97" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="98" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="99" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="100" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="101" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="102" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="103" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="104" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="105" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="106" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="107" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="108" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="109" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="110" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="111" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="112" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="113" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="114" output="&#x0005;"/>
+            <!--ENQUIRY-->
+            <key code="115" output="&#x0001;"/>
+            <!--START OF HEADING-->
+            <key code="116" output="&#x000B;"/>
+            <!--VERTICAL TABULATION-->
+            <key code="117" output="&#x007F;"/>
+            <!--DELETE-->
+            <key code="118" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="119" output="&#x0004;"/>
+            <!--END OF TRANSMISSION-->
+            <key code="120" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="121" output="&#x000C;"/>
+            <!--FORM FEED-->
+            <key code="122" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="123" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="124" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="125" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="126" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+        </keyMap>
+        <keyMap index="3">
+            <!--shift-->
+            <key code="0" output=""/>
+            <!--⇧a-->
+            <key code="1" output=""/>
+            <!--⇧s-->
+            <key code="2" output=""/>
+            <!--⇧d-->
+            <key code="3" output=""/>
+            <!--⇧f-->
+            <key code="4" output=""/>
+            <!--⇧h-->
+            <key code="5" output=""/>
+            <!--⇧g-->
+            <key code="6" output=""/>
+            <!--⇧z-->
+            <key code="7" output=""/>
+            <!--⇧x-->
+            <key code="8" output=""/>
+            <!--⇧c-->
+            <key code="9" output=""/>
+            <!--⇧v-->
+            <key code="10" output=""/>
+            <!--⇧§ (ISO)-->
+            <key code="11" output=""/>
+            <!--⇧b-->
+            <key code="12" output=""/>
+            <!--⇧q-->
+            <key code="13" output=""/>
+            <!--⇧w-->
+            <key code="14" output=""/>
+            <!--⇧e-->
+            <key code="15" output=""/>
+            <!--⇧r-->
+            <key code="16" output=""/>
+            <!--⇧y-->
+            <key code="17" output=""/>
+            <!--⇧t-->
+            <key code="18" output=""/>
+            <!--⇧1-->
+            <key code="19" output=""/>
+            <!--⇧2-->
+            <key code="20" output=""/>
+            <!--⇧3-->
+            <key code="21" output=""/>
+            <!--⇧4-->
+            <key code="22" output=""/>
+            <!--⇧6-->
+            <key code="23" output=""/>
+            <!--⇧5-->
+            <key code="24" output="‍"/>
+            <!--⇧=-->
+            <key code="25" output=""/>
+            <!--⇧9-->
+            <key code="26" output="⁊"/>
+            <!--⇧7-->
+            <key code="27" output=""/>
+            <!--⇧- -->
+            <key code="28" output="⸭"/>
+            <!--⇧8-->
+            <key code="29" output=""/>
+            <!--⇧0-->
+            <key code="30" output=""/>
+            <!--⇧]-->
+            <key code="31" output=""/>
+            <!--⇧o-->
+            <key code="32" output=""/>
+            <!--⇧u-->
+            <key code="33" output=""/>
+            <!--⇧[-->
+            <key code="34" output=""/>
+            <!--⇧i-->
+            <key code="35" output=""/>
+            <!--⇧p-->
+            <key code="36" output="&#x000D;"/>
+            <!--CARRIAGE RETURN-->
+            <key code="37" output=""/>
+            <!--⇧l-->
+            <key code="38" output=""/>
+            <!--⇧j-->
+            <key code="39" output=""/>
+            <!--⇧'-->
+            <key code="40" output=""/>
+            <!--⇧k-->
+            <key code="41" output="⁝"/>
+            <!--⇧;-->
+            <key code="42" output=""/>
+            <!--⇧\-->
+            <key code="43" output=":"/>
+            <!--⇧,-->
+            <key code="44" output=""/>
+            <!--⇧/-->
+            <key code="45" output=""/>
+            <!--⇧n-->
+            <key code="46" output=""/>
+            <!--⇧m-->
+            <key code="47" output="⸬"/>
+            <!--⇧.-->
+            <key code="48" output="&#x0009;"/>
+            <!--HORIZONTAL TABULATION-->
+            <key code="49" output=" "/>
+            <!--⇧ -->
+            <key code="50" output=""/>
+            <!--⇧`-->
+            <key code="51" output="&#x0008;"/>
+            <!--BACKSPACE-->
+            <key code="52" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="53" output="&#x001B;"/>
+            <!--ESCAPE-->
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <!--numpad-->
+            <key code="66" output="*"/>
+            <!--GROUP SEPARATOR-->
+            <key code="67" output="*"/>
+            <!--numpad-->
+            <key code="69" output="+"/>
+            <!--numpad-->
+            <key code="70" output="+"/>
+            <!--FILE SEPARATOR-->
+            <key code="71" output="&#x001B;"/>
+            <!--ESCAPE (not the one on the upper right)-->
+            <key code="72" output="="/>
+            <!--UNIT SEPARATOR-->
+            <key code="75" output="/"/>
+            <!--numpad-->
+            <key code="76" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="77" output="/"/>
+            <!--RECORD SEPARATOR-->
+            <key code="78" output="-"/>
+            <!--numpad-->
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <!--numpad-->
+            <key code="82" output="0"/>
+            <!--numpad-->
+            <key code="83" output="1"/>
+            <!--numpad-->
+            <key code="84" output="2"/>
+            <!--numpad-->
+            <key code="85" output="3"/>
+            <!--numpad-->
+            <key code="86" output="4"/>
+            <!--numpad-->
+            <key code="87" output="5"/>
+            <!--numpad-->
+            <key code="88" output="6"/>
+            <!--numpad-->
+            <key code="89" output="7"/>
+            <!--numpad-->
+            <key code="91" output="8"/>
+            <!--numpad-->
+            <key code="92" output="9"/>
+            <!--numpad-->
+            <key code="96" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="97" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="98" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="99" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="100" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="101" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="102" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="103" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="104" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="105" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="106" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="107" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="108" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="109" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="110" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="111" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="112" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="113" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="114" output="&#x0005;"/>
+            <!--ENQUIRY-->
+            <key code="115" output="&#x0001;"/>
+            <!--START OF HEADING-->
+            <key code="116" output="&#x000B;"/>
+            <!--VERTICAL TABULATION-->
+            <key code="117" output="&#x007F;"/>
+            <!--DELETE-->
+            <key code="118" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="119" output="&#x0004;"/>
+            <!--END OF TRANSMISSION-->
+            <key code="120" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="121" output="&#x000C;"/>
+            <!--FORM FEED-->
+            <key code="122" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="123" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="124" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="125" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="126" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+        </keyMap>
+        <keyMap index="4">
+            <!--option-->
+            <key code="0" output=""/>
+            <!--⌥a-->
+            <key code="1" output=""/>
+            <!--⌥s-->
+            <key code="2" output=""/>
+            <!--⌥d-->
+            <key code="3" output=""/>
+            <!--⌥f-->
+            <key code="4" output=""/>
+            <!--⌥h-->
+            <key code="5" output=""/>
+            <!--⌥g-->
+            <key code="6" output=""/>
+            <!--⌥z-->
+            <key code="7" output=""/>
+            <!--⌥x-->
+            <key code="8" output=""/>
+            <!--⌥c-->
+            <key code="9" output=""/>
+            <!--⌥v-->
+            <key code="10" output=""/>
+            <!--⌥§ (ISO)-->
+            <key code="11" output=""/>
+            <!--⌥b-->
+            <key code="12" output=""/>
+            <!--⌥q-->
+            <key code="13" output=""/>
+            <!--⌥w-->
+            <key code="14" output=""/>
+            <!--⌥e-->
+            <key code="15" output=""/>
+            <!--⌥r-->
+            <key code="16" output=""/>
+            <!--⌥y-->
+            <key code="17" output=""/>
+            <!--⌥t-->
+            <key code="18" output=""/>
+            <!--⌥1-->
+            <key code="19" output=""/>
+            <!--⌥2-->
+            <key code="20" output=""/>
+            <!--⌥3-->
+            <key code="21" output=""/>
+            <!--⌥4-->
+            <key code="22" output=""/>
+            <!--⌥6-->
+            <key code="23" output=""/>
+            <!--⌥5-->
+            <key code="24" output="‌"/>
+            <!--⌥=-->
+            <key code="25" output=""/>
+            <!--⌥9-->
+            <key code="26" output=""/>
+            <!--⌥7-->
+            <key code="27" output=""/>
+            <!--⌥- -->
+            <key code="28" output=""/>
+            <!--⌥8-->
+            <key code="29" output=""/>
+            <!--⌥0-->
+            <key code="30" output="‘"/>
+            <!--⌥]-->
+            <key code="31" output=""/>
+            <!--⌥o-->
+            <key code="32" output=""/>
+            <!--⌥u-->
+            <key code="33" output="“"/>
+            <!--⌥[-->
+            <key code="34" output=""/>
+            <!--⌥i-->
+            <key code="35" output=""/>
+            <!--⌥p-->
+            <key code="36" output="&#x000D;"/>
+            <!--CARRIAGE RETURN-->
+            <key code="37" output=""/>
+            <!--⌥l-->
+            <key code="38" output=""/>
+            <!--⌥j-->
+            <key code="39" output="’"/>
+            <!--⌥'-->
+            <key code="40" output=""/>
+            <!--⌥k-->
+            <key code="41" output=";"/>
+            <!--⌥;-->
+            <key code="42" output=""/>
+            <!--⌥\-->
+            <key code="43" output=","/>
+            <!--⌥,-->
+            <key code="44" output=""/>
+            <!--⌥/-->
+            <key code="45" output=""/>
+            <!--⌥n-->
+            <key code="46" output=""/>
+            <!--⌥m-->
+            <key code="47" output="."/>
+            <!--⌥.-->
+            <key code="48" output="&#x0009;"/>
+            <!--HORIZONTAL TABULATION-->
+            <key code="49" output=" "/>
+            <!--⌥ -->
+            <key code="50" output=""/>
+            <!--⌥`-->
+            <key code="51" output="&#x0008;"/>
+            <!--BACKSPACE-->
+            <key code="52" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="53" output="&#x001B;"/>
+            <!--ESCAPE-->
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <!--numpad-->
+            <key code="66" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="67" output="*"/>
+            <!--numpad-->
+            <key code="69" output="+"/>
+            <!--numpad-->
+            <key code="70" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="71" output="&#x001B;"/>
+            <!--ESCAPE (not the one on the upper right)-->
+            <key code="72" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="75" output="/"/>
+            <!--numpad-->
+            <key code="76" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="77" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+            <key code="78" output="-"/>
+            <!--numpad-->
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <!--numpad-->
+            <key code="82" output="0"/>
+            <!--numpad-->
+            <key code="83" output="1"/>
+            <!--numpad-->
+            <key code="84" output="2"/>
+            <!--numpad-->
+            <key code="85" output="3"/>
+            <!--numpad-->
+            <key code="86" output="4"/>
+            <!--numpad-->
+            <key code="87" output="5"/>
+            <!--numpad-->
+            <key code="88" output="6"/>
+            <!--numpad-->
+            <key code="89" output="7"/>
+            <!--numpad-->
+            <key code="91" output="8"/>
+            <!--numpad-->
+            <key code="92" output="9"/>
+            <!--numpad-->
+            <key code="96" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="97" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="98" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="99" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="100" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="101" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="102" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="103" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="104" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="105" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="106" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="107" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="108" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="109" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="110" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="111" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="112" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="113" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="114" output="&#x0005;"/>
+            <!--ENQUIRY-->
+            <key code="115" output="&#x0001;"/>
+            <!--START OF HEADING-->
+            <key code="116" output="&#x000B;"/>
+            <!--VERTICAL TABULATION-->
+            <key code="117" output="&#x007F;"/>
+            <!--DELETE-->
+            <key code="118" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="119" output="&#x0004;"/>
+            <!--END OF TRANSMISSION-->
+            <key code="120" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="121" output="&#x000C;"/>
+            <!--FORM FEED-->
+            <key code="122" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="123" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="124" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="125" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="126" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+        </keyMap>
+        <keyMap index="5">
+            <!--option-shift-->
+            <key code="0" output=""/>
+            <!--⌥⇧a-->
+            <key code="1" output=""/>
+            <!--⌥⇧s-->
+            <key code="2" output=""/>
+            <!--⌥⇧d-->
+            <key code="3" output=""/>
+            <!--⌥⇧f-->
+            <key code="4" output=""/>
+            <!--⌥⇧h-->
+            <key code="5" output=""/>
+            <!--⌥⇧g-->
+            <key code="6" output=""/>
+            <!--⌥⇧z-->
+            <key code="7" output=""/>
+            <!--⌥⇧x-->
+            <key code="8" output=""/>
+            <!--⌥⇧c-->
+            <key code="9" output=""/>
+            <!--⌥⇧v-->
+            <key code="10" output=""/>
+            <!--⌥⇧§ (ISO)-->
+            <key code="11" output=""/>
+            <!--⌥⇧b-->
+            <key code="12" output=""/>
+            <!--⌥⇧q-->
+            <key code="13" output=""/>
+            <!--⌥⇧w-->
+            <key code="14" output=""/>
+            <!--⌥⇧e-->
+            <key code="15" output=""/>
+            <!--⌥⇧r-->
+            <key code="16" output=""/>
+            <!--⌥⇧y-->
+            <key code="17" output=""/>
+            <!--⌥⇧t-->
+            <key code="18" output=""/>
+            <!--⌥⇧1-->
+            <key code="19" output=""/>
+            <!--⌥⇧2-->
+            <key code="20" output=""/>
+            <!--⌥⇧3-->
+            <key code="21" output=""/>
+            <!--⌥⇧4-->
+            <key code="22" output=""/>
+            <!--⌥⇧6-->
+            <key code="23" output=""/>
+            <!--⌥⇧5-->
+            <key code="24" output=""/>
+            <!--⌥⇧=-->
+            <key code="25" output=""/>
+            <!--⌥⇧9-->
+            <key code="26" output=""/>
+            <!--⌥⇧7-->
+            <key code="27" output=""/>
+            <!--⌥⇧- -->
+            <key code="28" output=""/>
+            <!--⌥⇧8-->
+            <key code="29" output=""/>
+            <!--⌥⇧0-->
+            <key code="30" output="’"/>
+            <!--⌥⇧]-->
+            <key code="31" output=""/>
+            <!--⌥⇧o-->
+            <key code="32" output=""/>
+            <!--⌥⇧u-->
+            <key code="33" output="”"/>
+            <!--⌥⇧[-->
+            <key code="34" output=""/>
+            <!--⌥⇧i-->
+            <key code="35" output=""/>
+            <!--⌥⇧p-->
+            <key code="36" output="&#x000D;"/>
+            <!--CARRIAGE RETURN-->
+            <key code="37" output=""/>
+            <!--⌥⇧l-->
+            <key code="38" output=""/>
+            <!--⌥⇧j-->
+            <key code="39" output=""/>
+            <!--⌥⇧'-->
+            <key code="40" output=""/>
+            <!--⌥⇧k-->
+            <key code="41" output=":"/>
+            <!--⌥⇧;-->
+            <key code="42" output=""/>
+            <!--⌥⇧\-->
+            <key code="43" output=""/>
+            <!--⌥⇧,-->
+            <key code="44" output="?"/>
+            <!--⌥⇧/-->
+            <key code="45" output=""/>
+            <!--⌥⇧n-->
+            <key code="46" output=""/>
+            <!--⌥⇧m-->
+            <key code="47" output=""/>
+            <!--⌥⇧.-->
+            <key code="48" output="&#x0009;"/>
+            <!--HORIZONTAL TABULATION-->
+            <key code="49" output=" "/>
+            <!--⌥⇧ -->
+            <key code="50" output=""/>
+            <!--⌥⇧`-->
+            <key code="51" output="&#x0008;"/>
+            <!--BACKSPACE-->
+            <key code="52" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="53" output="&#x001B;"/>
+            <!--ESCAPE-->
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <!--numpad-->
+            <key code="66" output="*"/>
+            <!--GROUP SEPARATOR-->
+            <key code="67" output="*"/>
+            <!--numpad-->
+            <key code="69" output="+"/>
+            <!--numpad-->
+            <key code="70" output="+"/>
+            <!--FILE SEPARATOR-->
+            <key code="71" output="&#x001B;"/>
+            <!--ESCAPE (not the one on the upper right)-->
+            <key code="72" output="="/>
+            <!--UNIT SEPARATOR-->
+            <key code="75" output="/"/>
+            <!--numpad-->
+            <key code="76" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="77" output="/"/>
+            <!--RECORD SEPARATOR-->
+            <key code="78" output="-"/>
+            <!--numpad-->
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <!--numpad-->
+            <key code="82" output="0"/>
+            <!--numpad-->
+            <key code="83" output="1"/>
+            <!--numpad-->
+            <key code="84" output="2"/>
+            <!--numpad-->
+            <key code="85" output="3"/>
+            <!--numpad-->
+            <key code="86" output="4"/>
+            <!--numpad-->
+            <key code="87" output="5"/>
+            <!--numpad-->
+            <key code="88" output="6"/>
+            <!--numpad-->
+            <key code="89" output="7"/>
+            <!--numpad-->
+            <key code="91" output="8"/>
+            <!--numpad-->
+            <key code="92" output="9"/>
+            <!--numpad-->
+            <key code="96" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="97" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="98" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="99" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="100" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="101" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="102" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="103" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="104" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="105" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="106" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="107" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="108" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="109" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="110" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="111" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="112" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="113" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="114" output="&#x0005;"/>
+            <!--ENQUIRY-->
+            <key code="115" output="&#x0001;"/>
+            <!--START OF HEADING-->
+            <key code="116" output="&#x000B;"/>
+            <!--VERTICAL TABULATION-->
+            <key code="117" output="&#x007F;"/>
+            <!--DELETE-->
+            <key code="118" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="119" output="&#x0004;"/>
+            <!--END OF TRANSMISSION-->
+            <key code="120" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="121" output="&#x000C;"/>
+            <!--FORM FEED-->
+            <key code="122" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="123" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="124" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="125" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="126" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+        </keyMap>
+        <keyMap index="6">
+            <!--capslock-->
+            <key code="0" output=""/>
+            <!--⇪a-->
+            <key code="1" output=""/>
+            <!--⇪s-->
+            <key code="2" output=""/>
+            <!--⇪d-->
+            <key code="3" output=""/>
+            <!--⇪f-->
+            <key code="4" output=""/>
+            <!--⇪h-->
+            <key code="5" output=""/>
+            <!--⇪g-->
+            <key code="6" output=""/>
+            <!--⇪z-->
+            <key code="7" output=""/>
+            <!--⇪x-->
+            <key code="8" output=""/>
+            <!--⇪c-->
+            <key code="9" output=""/>
+            <!--⇪v-->
+            <key code="10" output=""/>
+            <!--⇪§ (ISO)-->
+            <key code="11" output=""/>
+            <!--⇪b-->
+            <key code="12" output=""/>
+            <!--⇪q-->
+            <key code="13" output=""/>
+            <!--⇪w-->
+            <key code="14" output=""/>
+            <!--⇪e-->
+            <key code="15" output=""/>
+            <!--⇪r-->
+            <key code="16" output=""/>
+            <!--⇪y-->
+            <key code="17" output=""/>
+            <!--⇪t-->
+            <key code="18" output=""/>
+            <!--⇪1-->
+            <key code="19" output=""/>
+            <!--⇪2-->
+            <key code="20" output=""/>
+            <!--⇪3-->
+            <key code="21" output=""/>
+            <!--⇪4-->
+            <key code="22" output=""/>
+            <!--⇪6-->
+            <key code="23" output=""/>
+            <!--⇪5-->
+            <key code="24" output=""/>
+            <!--⇪=-->
+            <key code="25" output=""/>
+            <!--⇪9-->
+            <key code="26" output=""/>
+            <!--⇪7-->
+            <key code="27" output=""/>
+            <!--⇪- -->
+            <key code="28" output=""/>
+            <!--⇪8-->
+            <key code="29" output=""/>
+            <!--⇪0-->
+            <key code="30" output=""/>
+            <!--⇪]-->
+            <key code="31" output=""/>
+            <!--⇪o-->
+            <key code="32" output=""/>
+            <!--⇪u-->
+            <key code="33" output=""/>
+            <!--⇪[-->
+            <key code="34" output=""/>
+            <!--⇪i-->
+            <key code="35" output=""/>
+            <!--⇪p-->
+            <key code="36" output="&#x000D;"/>
+            <!--CARRIAGE RETURN-->
+            <key code="37" output=""/>
+            <!--⇪l-->
+            <key code="38" output=""/>
+            <!--⇪j-->
+            <key code="39" output=""/>
+            <!--⇪'-->
+            <key code="40" output=""/>
+            <!--⇪k-->
+            <key code="41" output="჻"/>
+            <!--⇪;-->
+            <key code="42" output=""/>
+            <!--⇪\-->
+            <key code="43" output="⸱"/>
+            <!--⇪,-->
+            <key code="44" output=""/>
+            <!--⇪/-->
+            <key code="45" output=""/>
+            <!--⇪n-->
+            <key code="46" output=""/>
+            <!--⇪m-->
+            <key code="47" output="⁘"/>
+            <!--⇪.-->
+            <key code="48" output="&#x0009;"/>
+            <!--HORIZONTAL TABULATION-->
+            <key code="49" output=" "/>
+            <!--⇪ -->
+            <key code="50" output=""/>
+            <!--⇪`-->
+            <key code="51" output="&#x0008;"/>
+            <!--BACKSPACE-->
+            <key code="52" output="&#x0003;"/>
+            <!--END OF TEXT (the key on the right of the right ⌘key)-->
+            <key code="53" output="&#x001B;"/>
+            <!--ESCAPE-->
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <!--numpad-->
+            <key code="66" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="67" output="*"/>
+            <!--numpad-->
+            <key code="69" output="+"/>
+            <!--numpad-->
+            <key code="70" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="71" output="&#x001B;"/>
+            <!--ESCAPE (not the one on the upper right)-->
+            <key code="72" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="75" output="/"/>
+            <!--numpad-->
+            <key code="76" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="77" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+            <key code="78" output="-"/>
+            <!--numpad-->
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <!--numpad-->
+            <key code="82" output="0"/>
+            <!--numpad-->
+            <key code="83" output="1"/>
+            <!--numpad-->
+            <key code="84" output="2"/>
+            <!--numpad-->
+            <key code="85" output="3"/>
+            <!--numpad-->
+            <key code="86" output="4"/>
+            <!--numpad-->
+            <key code="87" output="5"/>
+            <!--numpad-->
+            <key code="88" output="6"/>
+            <!--numpad-->
+            <key code="89" output="7"/>
+            <!--numpad-->
+            <key code="91" output="8"/>
+            <!--numpad-->
+            <key code="92" output="9"/>
+            <!--numpad-->
+            <key code="96" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="97" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="98" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="99" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="100" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="101" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="102" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="103" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="104" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="105" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="106" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="107" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="108" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="109" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="110" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="111" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="112" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="113" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="114" output="&#x0005;"/>
+            <!--ENQUIRY-->
+            <key code="115" output="&#x0001;"/>
+            <!--START OF HEADING-->
+            <key code="116" output="&#x000B;"/>
+            <!--VERTICAL TABULATION-->
+            <key code="117" output="&#x007F;"/>
+            <!--DELETE-->
+            <key code="118" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="119" output="&#x0004;"/>
+            <!--END OF TRANSMISSION-->
+            <key code="120" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="121" output="&#x000C;"/>
+            <!--FORM FEED-->
+            <key code="122" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="123" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="124" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="125" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="126" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+        </keyMap>
+        <keyMap index="7">
+            <!--capslock-shift-->
+            <!--        <keyMap index="8">capslock-option-->
+            <!--            <key code="0" output="å"/>⇪⌥a-->
+            <!--            <key code="1" output="ß"/>⇪⌥s-->
+            <!--            <key code="2" output="∂"/>⇪⌥d-->
+            <!--            <key code="3" output="ƒ"/>⇪⌥f-->
+            <!--            <key code="4" output="˙"/>⇪⌥h-->
+            <!--            <key code="5" output="©"/>⇪⌥g-->
+            <!--            <key code="6" output="Ω"/>⇪⌥z-->
+            <!--            <key code="7" output="≈"/>⇪⌥x-->
+            <!--            <key code="8" output="ç"/>⇪⌥c-->
+            <!--            <key code="9" output="√"/>⇪⌥v-->
+            <!--            <key code="10" output="§"/>⇪⌥§ (ISO)-->
+            <!--            <key code="11" output="∫"/>⇪⌥b-->
+            <!--            <key code="12" output="œ"/>⇪⌥q-->
+            <!--            <key code="13" output="∑"/>⇪⌥w-->
+            <!--            <key code="14" action="e"/>⇪⌥e-->
+            <!--            <key code="15" output="®"/>⇪⌥r-->
+            <!--            <key code="16" output="¥"/>⇪⌥y-->
+            <!--            <key code="17" output="†"/>⇪⌥t-->
+            <!--            <key code="18" output="¡"/>⇪⌥1-->
+            <!--            <key code="19" output="™"/>⇪⌥2-->
+            <!--            <key code="20" output="£"/>⇪⌥3-->
+            <!--            <key code="21" output="¢"/>⇪⌥4-->
+            <!--            <key code="22" output="§"/>⇪⌥6-->
+            <!--            <key code="23" output="∞"/>⇪⌥5-->
+            <!--            <key code="24" output="≠"/>⇪⌥=-->
+            <!--            <key code="25" output="ª"/>⇪⌥9-->
+            <!--            <key code="26" output="¶"/>⇪⌥7-->
+            <!--            <key code="27" output="–"/>⇪⌥- -->
+            <!--            <key code="28" output="•"/>⇪⌥8-->
+            <!--            <key code="29" output="º"/>⇪⌥0-->
+            <!--            <key code="30" output="‘"/>⇪⌥]-->
+            <!--            <key code="31" output="ø"/>⇪⌥o-->
+            <!--            <key code="32" action="u"/>⇪⌥u-->
+            <!--            <key code="33" output="“"/>⇪⌥[-->
+            <!--            <key code="34" action="i"/>⇪⌥i-->
+            <!--            <key code="35" output="π"/>⇪⌥p-->
+            <!--            <key code="36" output="&#x000d;"/>CARRIAGE RETURN-->
+            <!--            <key code="37" output="¬"/>⇪⌥l-->
+            <!--            <key code="38" output="∆"/>⇪⌥j-->
+            <!--            <key code="39" output="æ"/>⇪⌥'-->
+            <!--            <key code="40" output="˚"/>⇪⌥k-->
+            <!--            <key code="41" output="…"/>⇪⌥;-->
+            <!--            <key code="42" output="«"/>⇪⌥\-->
+            <!--            <key code="43" output="≤"/>⇪⌥,-->
+            <!--            <key code="44" output="÷"/>⇪⌥/-->
+            <!--            <key code="45" action="n"/>⇪⌥n-->
+            <!--            <key code="46" output="µ"/>⇪⌥m-->
+            <!--            <key code="47" output="≥"/>⇪⌥.-->
+            <!--            <key code="48" output="&#x0009;"/>HORIZONTAL TABULATION-->
+            <!--            <key code="49" output=" "/>⇪⌥ -->
+            <!--            <key code="50" action="`"/>⇪⌥`-->
+            <!--            <key code="51" output="&#x0008;"/>BACKSPACE-->
+            <!--            <key code="52" output="&#x0003;"/>END OF TEXT-->
+            <!--            <key code="53" output="&#x001b;"/>ESCAPE-->
+            <!--            <key code="65" output="."/>numpad-->
+            <!--            <key code="66" output="&#x001d;"/>GROUP SEPARATOR-->
+            <!--            <key code="67" output="*"/>numpad-->
+            <!--            <key code="69" output="+"/>numpad-->
+            <!--            <key code="70" output="&#x001c;"/>FILE SEPARATOR-->
+            <!--            <key code="71" output="&#x001b;"/>ESCAPE (not the one on the upper right)-->
+            <!--            <key code="72" output="&#x001f;"/>UNIT SEPARATOR-->
+            <!--            <key code="75" output="/"/>numpad-->
+            <!--            <key code="76" output="&#x0003;"/>END OF TEXT-->
+            <!--            <key code="77" output="&#x001e;"/>RECORD SEPARATOR-->
+            <!--            <key code="78" output="-"/>numpad-->
+            <!--            <key code="81" output="="/>numpad-->
+            <!--            <key code="82" output="0"/>numpad-->
+            <!--            <key code="83" output="1"/>numpad-->
+            <!--            <key code="84" output="2"/>numpad-->
+            <!--            <key code="85" output="3"/>numpad-->
+            <!--            <key code="86" output="4"/>numpad-->
+            <!--            <key code="87" output="5"/>numpad-->
+            <!--            <key code="88" output="6"/>numpad-->
+            <!--            <key code="89" output="7"/>numpad-->
+            <!--            <key code="91" output="8"/>numpad-->
+            <!--            <key code="92" output="9"/>numpad-->
+            <!--            <key code="96" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="97" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="98" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="99" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="100" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="101" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="102" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="103" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="104" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="105" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="106" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="107" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="108" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="109" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="110" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="111" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="112" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="113" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="114" output="&#x0005;"/>ENQUIRY-->
+            <!--            <key code="115" output="&#x0001;"/>START OF HEADING-->
+            <!--            <key code="116" output="&#x000b;"/>VERTICAL TABULATION-->
+            <!--            <key code="117" output=""/>DELETE-->
+            <!--            <key code="118" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="119" output="&#x0004;"/>END OF TRANSMISSION-->
+            <!--            <key code="120" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="121" output="&#x000c;"/>FORM FEED-->
+            <!--            <key code="122" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="123" output="&#x001c;"/>FILE SEPARATOR-->
+            <!--            <key code="124" output="&#x001d;"/>GROUP SEPARATOR-->
+            <!--            <key code="125" output="&#x001f;"/>UNIT SEPARATOR-->
+            <!--            <key code="126" output="&#x001e;"/>RECORD SEPARATOR-->
+            <!--        </keyMap>-->
+            <!--        <keyMap index="8">capslock-option-shift-->
+            <!--            <key code="0" output="Å"/>⇪⌥⇧a-->
+            <!--            <key code="1" output="Í"/>⇪⌥⇧s-->
+            <!--            <key code="2" output="Î"/>⇪⌥⇧d-->
+            <!--            <key code="3" output="Ï"/>⇪⌥⇧f-->
+            <!--            <key code="4" output="Ó"/>⇪⌥⇧h-->
+            <!--            <key code="5" output="˝"/>⇪⌥⇧g-->
+            <!--            <key code="6" output="¸"/>⇪⌥⇧z-->
+            <!--            <key code="7" output="˛"/>⇪⌥⇧x-->
+            <!--            <key code="8" output="Ç"/>⇪⌥⇧c-->
+            <!--            <key code="9" output="◊"/>⇪⌥⇧v-->
+            <!--            <key code="10" output="±"/>⇪⌥⇧§ (ISO)-->
+            <!--            <key code="11" output="ı"/>⇪⌥⇧b-->
+            <!--            <key code="12" output="Œ"/>⇪⌥⇧q-->
+            <!--            <key code="13" output="„"/>⇪⌥⇧w-->
+            <!--            <key code="14" output="´"/>⇪⌥⇧e-->
+            <!--            <key code="15" output="‰"/>⇪⌥⇧r-->
+            <!--            <key code="16" output="Á"/>⇪⌥⇧y-->
+            <!--            <key code="17" output="ˇ"/>⇪⌥⇧t-->
+            <!--            <key code="18" output="⁄"/>⇪⌥⇧1-->
+            <!--            <key code="19" output="€"/>⇪⌥⇧2-->
+            <!--            <key code="20" output="‹"/>⇪⌥⇧3-->
+            <!--            <key code="21" output="›"/>⇪⌥⇧4-->
+            <!--            <key code="22" output="ﬂ"/>⇪⌥⇧6-->
+            <!--            <key code="23" output="ﬁ"/>⇪⌥⇧5-->
+            <!--            <key code="24" output="±"/>⇪⌥⇧=-->
+            <!--            <key code="25" output="·"/>⇪⌥⇧9-->
+            <!--            <key code="26" output="‡"/>⇪⌥⇧7-->
+            <!--            <key code="27" output="—"/>⇪⌥⇧- -->
+            <!--            <key code="28" output="°"/>⇪⌥⇧8-->
+            <!--            <key code="29" output="‚"/>⇪⌥⇧0-->
+            <!--            <key code="30" output="’"/>⇪⌥⇧]-->
+            <!--            <key code="31" output="Ø"/>⇪⌥⇧o-->
+            <!--            <key code="32" output="¨"/>⇪⌥⇧u-->
+            <!--            <key code="33" output="”"/>⇪⌥⇧[-->
+            <!--            <key code="34" output="ˆ"/>⇪⌥⇧i-->
+            <!--            <key code="35" output="∏"/>⇪⌥⇧p-->
+            <!--            <key code="36" output="&#x000d;"/>CARRIAGE RETURN-->
+            <!--            <key code="37" output="Ò"/>⇪⌥⇧l-->
+            <!--            <key code="38" output="Ô"/>⇪⌥⇧j-->
+            <!--            <key code="39" output="Æ"/>⇪⌥⇧'-->
+            <!--            <key code="40" output=""/>⇪⌥⇧k-->
+            <!--            <key code="41" output="Ú"/>⇪⌥⇧;-->
+            <!--            <key code="42" output="»"/>⇪⌥⇧\-->
+            <!--            <key code="43" output="¯"/>⇪⌥⇧,-->
+            <!--            <key code="44" output="¿"/>⇪⌥⇧/-->
+            <!--            <key code="45" output="˜"/>⇪⌥⇧n-->
+            <!--            <key code="46" output="Â"/>⇪⌥⇧m-->
+            <!--            <key code="47" output="˘"/>⇪⌥⇧.-->
+            <!--            <key code="48" output="&#x0009;"/>HORIZONTAL TABULATION-->
+            <!--            <key code="49" output=" "/>⇪⌥⇧ -->
+            <!--            <key code="50" output="`"/>⇪⌥⇧`-->
+            <!--            <key code="51" output="&#x0008;"/>BACKSPACE-->
+            <!--            <key code="52" output="&#x0003;"/>END OF TEXT-->
+            <!--            <key code="53" output="&#x001b;"/>ESCAPE-->
+            <!--            <key code="65" output="."/>numpad-->
+            <!--            <key code="66" output="*"/>GROUP SEPARATOR-->
+            <!--            <key code="67" output="*"/>numpad-->
+            <!--            <key code="69" output="+"/>numpad-->
+            <!--            <key code="70" output="+"/>FILE SEPARATOR-->
+            <!--            <key code="71" output="&#x001b;"/>ESCAPE (not the one on the upper right)-->
+            <!--            <key code="72" output="="/>UNIT SEPARATOR-->
+            <!--            <key code="75" output="/"/>numpad-->
+            <!--            <key code="76" output="&#x0003;"/>END OF TEXT-->
+            <!--            <key code="77" output="/"/>RECORD SEPARATOR-->
+            <!--            <key code="78" output="-"/>numpad-->
+            <!--            <key code="81" output="="/>numpad-->
+            <!--            <key code="82" output="0"/>numpad-->
+            <!--            <key code="83" output="1"/>numpad-->
+            <!--            <key code="84" output="2"/>numpad-->
+            <!--            <key code="85" output="3"/>numpad-->
+            <!--            <key code="86" output="4"/>numpad-->
+            <!--            <key code="87" output="5"/>numpad-->
+            <!--            <key code="88" output="6"/>numpad-->
+            <!--            <key code="89" output="7"/>numpad-->
+            <!--            <key code="91" output="8"/>numpad-->
+            <!--            <key code="92" output="9"/>numpad-->
+            <!--            <key code="96" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="97" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="98" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="99" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="100" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="101" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="102" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="103" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="104" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="105" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="106" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="107" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="108" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="109" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="110" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="111" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="112" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="113" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="114" output="&#x0005;"/>ENQUIRY-->
+            <!--            <key code="115" output="&#x0001;"/>START OF HEADING-->
+            <!--            <key code="116" output="&#x000b;"/>VERTICAL TABULATION-->
+            <!--            <key code="117" output=""/>DELETE-->
+            <!--            <key code="118" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="119" output="&#x0004;"/>END OF TRANSMISSION-->
+            <!--            <key code="120" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="121" output="&#x000c;"/>FORM FEED-->
+            <!--            <key code="122" output="&#x0010;"/>DATA LINK ESCAPE-->
+            <!--            <key code="123" output="&#x001c;"/>FILE SEPARATOR-->
+            <!--            <key code="124" output="&#x001d;"/>GROUP SEPARATOR-->
+            <!--            <key code="125" output="&#x001f;"/>UNIT SEPARATOR-->
+            <!--            <key code="126" output="&#x001e;"/>RECORD SEPARATOR-->
+            <!--        </keyMap>-->
+            <key code="0" output=""/>
+            <!--⇪⇧a-->
+            <key code="1" output=""/>
+            <!--⇪⇧s-->
+            <key code="2" output=""/>
+            <!--⇪⇧d-->
+            <key code="3" output=""/>
+            <!--⇪⇧f-->
+            <key code="4" output=""/>
+            <!--⇪⇧h-->
+            <key code="5" output=""/>
+            <!--⇪⇧g-->
+            <key code="6" output=""/>
+            <!--⇪⇧z-->
+            <key code="7" output=""/>
+            <!--⇪⇧x-->
+            <key code="8" output=""/>
+            <!--⇪⇧c-->
+            <key code="9" output=""/>
+            <!--⇪⇧v-->
+            <key code="10" output=""/>
+            <!--⇪⇧§ (ISO)-->
+            <key code="11" output=""/>
+            <!--⇪⇧b-->
+            <key code="12" output=""/>
+            <!--⇪⇧q-->
+            <key code="13" output=""/>
+            <!--⇪⇧w-->
+            <key code="14" output=""/>
+            <!--⇪⇧e-->
+            <key code="15" output=""/>
+            <!--⇪⇧r-->
+            <key code="16" output=""/>
+            <!--⇪⇧y-->
+            <key code="17" output=""/>
+            <!--⇪⇧t-->
+            <key code="18" output=""/>
+            <!--⇪⇧1-->
+            <key code="19" output=""/>
+            <!--⇪⇧2-->
+            <key code="20" output=""/>
+            <!--⇪⇧3-->
+            <key code="21" output=""/>
+            <!--⇪⇧4-->
+            <key code="22" output=""/>
+            <!--⇪⇧6-->
+            <key code="23" output=""/>
+            <!--⇪⇧5-->
+            <key code="24" output="‍"/>
+            <!--⇪⇧=-->
+            <key code="25" output=""/>
+            <!--⇪⇧9-->
+            <key code="26" output="⁊"/>
+            <!--⇪⇧7-->
+            <key code="27" output=""/>
+            <!--⇪⇧- -->
+            <key code="28" output="⸭"/>
+            <!--⇪⇧8-->
+            <key code="29" output=""/>
+            <!--⇪⇧0-->
+            <key code="30" output=""/>
+            <!--⇪⇧]-->
+            <key code="31" output=""/>
+            <!--⇪⇧o-->
+            <key code="32" output=""/>
+            <!--⇪⇧u-->
+            <key code="33" output=""/>
+            <!--⇪⇧[-->
+            <key code="34" output=""/>
+            <!--⇪⇧i-->
+            <key code="35" output=""/>
+            <!--⇪⇧p-->
+            <key code="36" output="&#x000D;"/>
+            <!--CARRIAGE RETURN-->
+            <key code="37" output=""/>
+            <!--⇪⇧l-->
+            <key code="38" output=""/>
+            <!--⇪⇧j-->
+            <key code="39" output=""/>
+            <!--⇪⇧'-->
+            <key code="40" output=""/>
+            <!--⇪⇧k-->
+            <key code="41" output="⁝"/>
+            <!--⇪⇧;-->
+            <key code="42" output=""/>
+            <!--⇪⇧\-->
+            <key code="43" output=":"/>
+            <!--⇪⇧,-->
+            <key code="44" output=""/>
+            <!--⇪⇧/-->
+            <key code="45" output=""/>
+            <!--⇪⇧n-->
+            <key code="46" output=""/>
+            <!--⇪⇧m-->
+            <key code="47" output="⸬"/>
+            <!--⇪⇧.-->
+            <key code="48" output="&#x0009;"/>
+            <!--HORIZONTAL TABULATION-->
+            <key code="49" output=" "/>
+            <!--⇪⇧ -->
+            <key code="50" output=""/>
+            <!--⇪⇧`-->
+            <key code="51" output="&#x0008;"/>
+            <!--BACKSPACE-->
+            <key code="52" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="53" output="&#x001B;"/>
+            <!--ESCAPE-->
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <!--numpad-->
+            <key code="66" output="*"/>
+            <!--GROUP SEPARATOR-->
+            <key code="67" output="*"/>
+            <!--numpad-->
+            <key code="69" output="+"/>
+            <!--numpad-->
+            <key code="70" output="+"/>
+            <!--FILE SEPARATOR-->
+            <key code="71" output="&#x001B;"/>
+            <!--ESCAPE (not the one on the upper right)-->
+            <key code="72" output="="/>
+            <!--UNIT SEPARATOR-->
+            <key code="75" output="/"/>
+            <!--numpad-->
+            <key code="76" output="&#x0003;"/>
+            <!--END OF TEXT-->
+            <key code="77" output="/"/>
+            <!--RECORD SEPARATOR-->
+            <key code="78" output="-"/>
+            <!--numpad-->
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <!--numpad-->
+            <key code="82" output="0"/>
+            <!--numpad-->
+            <key code="83" output="1"/>
+            <!--numpad-->
+            <key code="84" output="2"/>
+            <!--numpad-->
+            <key code="85" output="3"/>
+            <!--numpad-->
+            <key code="86" output="4"/>
+            <!--numpad-->
+            <key code="87" output="5"/>
+            <!--numpad-->
+            <key code="88" output="6"/>
+            <!--numpad-->
+            <key code="89" output="7"/>
+            <!--numpad-->
+            <key code="91" output="8"/>
+            <!--numpad-->
+            <key code="92" output="9"/>
+            <!--numpad-->
+            <key code="96" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="97" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="98" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="99" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="100" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="101" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="102" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="103" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="104" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="105" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="106" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="107" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="108" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="109" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="110" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="111" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="112" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="113" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="114" output="&#x0005;"/>
+            <!--ENQUIRY-->
+            <key code="115" output="&#x0001;"/>
+            <!--START OF HEADING-->
+            <key code="116" output="&#x000B;"/>
+            <!--VERTICAL TABULATION-->
+            <key code="117" output="&#x007F;"/>
+            <!--DELETE-->
+            <key code="118" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="119" output="&#x0004;"/>
+            <!--END OF TRANSMISSION-->
+            <key code="120" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="121" output="&#x000C;"/>
+            <!--FORM FEED-->
+            <key code="122" output="&#x0010;"/>
+            <!--DATA LINK ESCAPE-->
+            <key code="123" output="&#x001C;"/>
+            <!--FILE SEPARATOR-->
+            <key code="124" output="&#x001D;"/>
+            <!--GROUP SEPARATOR-->
+            <key code="125" output="&#x001F;"/>
+            <!--UNIT SEPARATOR-->
+            <key code="126" output="&#x001E;"/>
+            <!--RECORD SEPARATOR-->
+        </keyMap>
+    </keyMapSet>
+    <keyMapSet id="JIS">
+        <keyMap index="0" baseMapSet="ANSI" baseIndex="0">
+            <!--no modifiers-->
+            <key code="24" output="^"/>
+            <key code="30" output="["/>
+            <key code="33" output="@"/>
+            <key code="39" output=":"/>
+            <key code="42" output="]"/>
+            <key code="93" output="\"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" output=" "/>
+            <key code="104" output=" "/>
+        </keyMap>
+        <keyMap index="1" baseMapSet="ANSI" baseIndex="1">
+            <!--shift-->
+            <key code="19" output="&#x0022;"/>
+            <key code="22" output="&#x0026;"/>
+            <key code="24" output="~"/>
+            <key code="25" output=")"/>
+            <key code="26" output="&#x0027;"/>
+            <key code="27" output="="/>
+            <key code="28" output="("/>
+            <key code="29" output="0"/>
+            <key code="30" output="{"/>
+            <key code="33" output="`"/>
+            <key code="39" output="*"/>
+            <key code="41" output="+"/>
+            <key code="42" output="}"/>
+            <key code="93" output="|"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" output=" "/>
+            <key code="104" output=" "/>
+        </keyMap>
+        <keyMap index="2" baseMapSet="ANSI" baseIndex="2">
+            <!--capslock-->
+            <key code="24" output="^"/>
+            <key code="30" output=""/>
+            <key code="33" output=""/>
+            <key code="39" output=":"/>
+            <key code="42" output=""/>
+            <key code="93" output="\"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" output=" "/>
+            <key code="104" output=" "/>
+        </keyMap>
+        <keyMap index="3" baseMapSet="ANSI" baseIndex="3">
+            <!--option-->
+            <key code="93" output="|"/>
+            <key code="95" output=","/>
+            <key code="102" output=" "/>
+            <key code="104" output=" "/>
+        </keyMap>
+        <keyMap index="4" baseMapSet="ANSI" baseIndex="4">
+            <!--option-shift-->
+            <key code="93" output="|"/>
+            <key code="94" output=""/>
+            <key code="95" output=","/>
+            <key code="102" output=" "/>
+            <key code="104" output=" "/>
+        </keyMap>
+        <keyMap index="5" baseMapSet="ANSI" baseIndex="5">
+            <!--capslock-option-->
+            <key code="93" output="|"/>
+            <key code="94" output="`"/>
+            <key code="95" output=","/>
+            <key code="102" output=" "/>
+            <key code="104" output=" "/>
+        </keyMap>
+        <keyMap index="6">
+            <key code="0" output=""/>
+            <key code="36" output="&#x000D;"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="7">
+            <key code="0" output=""/>
+            <key code="36" output="&#x000D;"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+    </keyMapSet>
+</keyboard>
