@@ -18,7 +18,7 @@ code = "ando-teng umbar-teng anga-teng ungwe-teng anto-teng ampa-teng anca-teng 
 name = wide;
 },
 {
-code = "dottripleabove-teng\012dotdblabove-teng\012dotabove-teng\012acute-teng\012acute_acute-teng\012rightcurl-teng\012rightcurl_rightcurl-teng\012leftcurl-teng\012leftcurl_leftcurl-teng\012ring-teng\012wave-teng\012macron-teng\012tilde-teng\012breve-teng\012grave-teng\012caron-teng\012dottripleturnedabove-teng\012wave-teng.short\012macron-teng.short\012tilde-teng.short\012wave-teng.shortL\012macron-teng.shortL\012wave-teng.shortR\012macron-teng.shortR\012caron-teng.ss01\012wave-teng.wide";
+code = "dottripleabove-teng\012dotdblabove-teng\012dotabove-teng\012acute-teng\012acute_acute-teng\012rightcurl-teng\012rightcurl_rightcurl-teng\012leftcurl-teng\012leftcurl_leftcurl-teng\012ring-teng\012wave-teng\012macron-teng\012tilde-teng\012breve-teng\012grave-teng\012caron-teng\012dottripleturnedabove-teng\012wave-teng.short\012macron-teng.short\012tilde-teng.short\012wave-teng.shortL\012macron-teng.shortL\012wave-teng.shortR\012macron-teng.shortR\012caron-teng.ss06\012wave-teng.wide\012";
 name = acctop;
 },
 {
@@ -26,7 +26,7 @@ code = "dottriplebelow-teng\012dotbelow-teng\012acutebelow-teng\012acutebelow_ac
 name = accbottom;
 },
 {
-code = "dottripleabove-teng\012dottriplebelow-teng\012dotdblabove-teng\012dotdblelow-teng\012dotabove-teng\012dotbelow-teng\012acute-teng\012acute_acute-teng\012acutebelow-teng\012acutebelow_acutebelow-teng\012rightcurl-teng\012rightcurl_rightcurl-teng\012rightcurlbelow-teng\012leftcurl-teng\012leftcurl_leftcurl-teng\012leftcurlbelow-teng\012ring-teng\012wave-teng\012macron-teng\012macronbelow-teng\012tilde-teng\012breve-teng\012grave-teng\012caron-teng\012dottripleturnedabove-teng\012thinnas-teng\012sarince-teng\012dotinside-teng\012duodecimalleast-teng\012macronbelow-teng.lambe\012wave-teng.short\012macron-teng.short\012macronbelow-teng.short\012tilde-teng.short\012wave-teng.shortL\012macron-teng.shortL\012wave-teng.shortR\012macron-teng.shortR\012macronbelow-teng.shortR\012caron-teng.ss01\012wave-teng.wide\012macron-teng.wide\012macronbelow-teng.wide\012rightcurlbelowright-teng";
+code = "dottripleabove-teng\012dottriplebelow-teng\012dotdblabove-teng\012dotdblelow-teng\012dotabove-teng\012dotbelow-teng\012acute-teng\012acute_acute-teng\012acutebelow-teng\012acutebelow_acutebelow-teng\012rightcurl-teng\012rightcurl_rightcurl-teng\012rightcurlbelow-teng\012leftcurl-teng\012leftcurl_leftcurl-teng\012leftcurlbelow-teng\012ring-teng\012wave-teng\012macron-teng\012macronbelow-teng\012tilde-teng\012breve-teng\012grave-teng\012caron-teng\012dottripleturnedabove-teng\012thinnas-teng\012sarince-teng\012dotinside-teng\012duodecimalleast-teng\012macronbelow-teng.lambe\012wave-teng.short\012macron-teng.short\012macronbelow-teng.short\012tilde-teng.short\012wave-teng.shortL\012macron-teng.shortL\012wave-teng.shortR\012macron-teng.shortR\012macronbelow-teng.shortR\012caron-teng.ss06\012wave-teng.wide\012macron-teng.wide\012macronbelow-teng.wide\012rightcurlbelowright-teng\012";
 name = accall;
 },
 {
@@ -109,17 +109,12 @@ code = "lookupflag IgnoreMarks;\012sub calma-teng harma-teng by calma_harma-teng
 name = dlig;
 },
 {
-automatic = 1;
-code = "sub zero-teng by zero-teng.ss01;\012sub one-teng by one-teng.ss01;\012sub two-teng by two-teng.ss01;\012sub three-teng by three-teng.ss01;\012sub four-teng by four-teng.ss01;\012sub five-teng by five-teng.ss01;\012sub six-teng by six-teng.ss01;\012sub seven-teng by seven-teng.ss01;\012sub eight-teng by eight-teng.ss01;\012sub nine-teng by nine-teng.ss01;\012sub ten-teng by ten-teng.ss01;\012sub eleven-teng by eleven-teng.ss01;\012sub twelve-teng by twelve-teng.ss01;\012sub dottedCircle by dottedCircle.ss01;\012sub caron-teng by caron-teng.ss01;\012";
-name = salt;
-},
-{
 code = "lookupflag IgnoreMarks;\012sub [roomen-teng roomen-teng.bottom] sarincefina-teng by roomen_sarincefina-teng.rlig;\012sub [arda-teng arda-teng.bottom] sarincefina-teng by arda_sarincefina-teng.rlig;\012sub [lambe-teng lambe-teng.big] sarincefina-teng by lambe_sarincefina-teng.rlig;\012sub [alda-teng alda-teng.big] sarincefina-teng by alda_sarincefina-teng.rlig;\012sub silme-teng sarincefina-teng by silme_sarincefina-teng.rlig;\012sub silmeturned-teng sarincefina-teng by silmeturned_sarincefina-teng.rlig;\012sub aare-teng sarincefina-teng by aare_sarincefina-teng.rlig;\012sub aareturned-teng sarincefina-teng by aareturned_sarincefina-teng.rlig;\012sub [hyarmen-teng hyarmen-teng.top] sarincefina-teng by hyarmen_sarincefina-teng.rlig;\012sub hwestasindar-teng sarincefina-teng by hwestasindar_sarincefina-teng.rlig;\012sub yanta-teng sarincefina-teng by yanta_sarincefina-teng.rlig;\012sub uure-teng sarincefina-teng by uure_sarincefina-teng.rlig;\012sub halla-teng sarincefina-teng by halla_sarincefina-teng.rlig;\012sub carriershort-teng sarincefina-teng by carriershort_sarincefina-teng.rlig;\012sub ossereversed-teng sarincefina-teng by ossereversed_sarincefina-teng.rlig;\012sub wbombadil-teng sarincefina-teng by wbombadil_sarincefina-teng.rlig;\012sub osse-teng sarincefina-teng by osse_sarincefina-teng.rlig;\012sub annaopen-teng sarincefina-teng by annaopen_sarincefina-teng.rlig;\012sub hwbombadil-teng sarincefina-teng by hwbombadil_sarincefina-teng.rlig;\012sub hwlowdham-teng sarincefina-teng by hwlowdham_sarincefina-teng.rlig;\012sub vaiya-teng sarincefina-teng by vaiya_sarincefina-teng.rlig;\012";
 name = rlig;
 },
 {
 automatic = 1;
-code = "sub zero-teng by zero-teng.ss01;\012sub one-teng by one-teng.ss01;\012sub two-teng by two-teng.ss01;\012sub three-teng by three-teng.ss01;\012sub four-teng by four-teng.ss01;\012sub five-teng by five-teng.ss01;\012sub six-teng by six-teng.ss01;\012sub seven-teng by seven-teng.ss01;\012sub eight-teng by eight-teng.ss01;\012sub nine-teng by nine-teng.ss01;\012sub ten-teng by ten-teng.ss01;\012sub eleven-teng by eleven-teng.ss01;\012sub twelve-teng by twelve-teng.ss01;\012sub dottedCircle by dottedCircle.ss01;\012sub caron-teng by caron-teng.ss01;\012";
+code = "sub zero-teng by zero-teng.ss01;\012sub one-teng by one-teng.ss01;\012sub two-teng by two-teng.ss01;\012sub three-teng by three-teng.ss01;\012sub four-teng by four-teng.ss01;\012sub five-teng by five-teng.ss01;\012sub six-teng by six-teng.ss01;\012sub seven-teng by seven-teng.ss01;\012sub eight-teng by eight-teng.ss01;\012sub nine-teng by nine-teng.ss01;\012sub ten-teng by ten-teng.ss01;\012sub eleven-teng by eleven-teng.ss01;\012sub twelve-teng by twelve-teng.ss01;\012sub dottedCircle by dottedCircle.ss01;\012";
 name = ss01;
 notes = "Name: Numerals with line above";
 },
@@ -144,6 +139,12 @@ notes = "Name: Looped final sarince 2";
 code = "sub [tinco-teng ando-teng thuule-teng anto-teng nuumen-teng oore-teng tincoascent-teng andoascent-teng] sarincefina-teng' by sarincefina-teng.ss05;";
 name = ss05;
 notes = "Name: Downward final sarince";
+},
+{
+automatic = 1;
+code = "sub caron-teng by caron-teng.ss06;\012";
+name = ss06;
+notes = "Name: Alternate yanta-like caron";
 },
 {
 code = "sub four-teng.ss01' [seven-teng.ss01 eight-teng.ss01 nine-teng.ss01] by four-teng.ss01.calt;";
@@ -50273,8 +50274,8 @@ rightMetricsKey = "=20";
 },
 {
 color = 9;
-glyphname = "caron-teng.ss01";
-lastChange = "2016-05-25 23:53:32 +0000";
+glyphname = "caron-teng.ss06";
+lastChange = "2022-01-04 16:54:26 +0000";
 layers = (
 {
 anchors = (
