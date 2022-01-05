@@ -17,7 +17,7 @@ Alcarin Tengwar is released under Open Font License 1.1.
 - Mak Keyboard Layout: My custom keyboard layout for macOS that is based on [FreeTengwar's tengwarQWERTY](http://freetengwar.sourceforge.net/keylayouts.html). It should appear as 'tengwarQWERTY Toshi'.
 - README: This document.
 - OFL.txt: The Open Font License 1.1 license text.
-- PDFs: Some PDFs including the glyph set, manual, and simple specimens.
+- PDFs: Some PDFs including the glyph set, manual, and simple specimens. The glyph mapping requires a special attention, as it uses my custom mapping based on [Free Tengwar's](http://freetengwar.sourceforge.net/mapping.html).
 - Sample Text: Try the font with these text. (Note: the font doesn't contain Latin)
 
 ## Disclaimer
