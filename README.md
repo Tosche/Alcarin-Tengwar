@@ -18,6 +18,7 @@ Alcarin Tengwar is released under Open Font License 1.1.
 - README: This document.
 - OFL.txt: The Open Font License 1.1 license text.
 - PDFs: Some PDFs including the glyph set, manual, and simple specimens.
+- Sample Text: Try the font with these text. (Note: the font doesn't contain Latin)
 
 ## Disclaimer
 The Brill fonts are owned by Koninklijke Brill NV. They are not licensed under the OFL but under licenses of their own, both [non-commercial](https://brill.com/page/BrillFont/brill-typeface) and [commercial](https://fonts.ilovetypography.com/superfamily/Brill).
