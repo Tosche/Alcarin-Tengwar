@@ -15,7 +15,9 @@ The word 'alcarin' means 'brilliant' in the Quenya language, the High-Elven lang
 - OFL.txt: The Open Font License 1.1 license text.
 - PDFs: Some PDFs including the glyph set, manual, and simple specimens.
 
-### Disclaimer
+## Disclaimer
 The Brill fonts are owned by Koninklijke Brill NV. They are not licensed under the OFL but under licenses of their own, both non-commercial and commercial.
 
 Alcarin Tengwar is not in any official way associated with either Koninklijke Brill NV or Tolkien Estate. It also does not contain any graphical elements of Brill.
+
+Also, I am a typeface designer, not a linguist. My knowledge on Tengwar and is rusty; if/when you raise issues, I would appreciate an attitude and vocabulary as if you would explain to a newbie.
