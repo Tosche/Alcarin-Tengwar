@@ -1,3 +1,5 @@
+![Title image](title.svg)
+
 # Alcarin Tengwar
 
 Alcarin Tengwar is an open-source Tengwar typeface designed to pair well with the [Brill](https://www.brill.com/brill-typeface) typeface; Tengwar is an fictional writing system invented by J.R.R. Tolkien, used in his Lord Of The Rings works.
