@@ -18,7 +18,7 @@
 	in a fashion that resembles the QWERTY mapping. In escpecial, the common vowel keys
 	will produce ómatehtar. Capslock mode only affects these vowel keys, swapped for
 	their corresponding tengwar in order to ease full writing typing.-->
-<!--Last edited by Ukelele version 346 on 2022-01-02 at 18:28 (GMT)-->
+<!--Last edited by Ukelele version 346 on 2022-01-05 at 14:15 (GMT)-->
 <keyboard group="0" id="2455" name="TengwarQWERTY Toshi" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -598,7 +598,7 @@
             <!--n-->
             <key code="46" output=""/>
             <!--m-->
-            <key code="47" output="⁘"/>
+            <key code="47" output=""/>
             <!--.-->
             <key code="48" output="&#x0009;"/>
             <!--HORIZONTAL TABULATION-->
