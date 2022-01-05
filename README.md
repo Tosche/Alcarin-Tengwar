@@ -23,6 +23,6 @@ Alcarin Tengwar is released under Open Font License 1.1.
 ## Disclaimer
 The Brill fonts are owned by Koninklijke Brill NV. They are not licensed under the OFL but under licenses of their own, both [non-commercial](https://brill.com/page/BrillFont/brill-typeface) and [commercial](https://fonts.ilovetypography.com/superfamily/Brill).
 
-Alcarin Tengwar is not in any official way associated with either Koninklijke Brill NV or Tolkien Estate. It also does not contain any graphical elements of Brill.
+Alcarin Tengwar is not in any official way associated with either Koninklijke Brill NV or Tolkien Estate (though I have received the blessing of the former; not 100% unofficial). It also does not contain any graphical elements of Brill.
 
 Also, I am a typeface designer, not a linguist. My knowledge on Tengwar and is rusty; if/when you raise issues, I would appreciate an attitude and vocabulary as if you would explain to a newbie.
