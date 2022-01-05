@@ -2,11 +2,13 @@
 
 # Alcarin Tengwar
 
-Alcarin Tengwar is an open-source Tengwar typeface designed to pair well with the [Brill](https://www.brill.com/brill-typeface) typeface; Tengwar is an fictional writing system invented by J.R.R. Tolkien, used in his Lord Of The Rings works.
+Alcarin Tengwar is a Tengwar typeface designed to pair well with the [Brill](https://www.brill.com/brill-typeface) typeface; Tengwar is an fictional writing system invented by J.R.R. Tolkien, used in his Lord Of The Rings works.
 
-It is designed to look more typographic and of high quality, with academic context in mind. More detailed design notes can be seen [here](https://tosche.net/fonts/alcarin-tengwar).
+It is designed to look more typographic and of high quality, with academic context in mind. It works best with Brill, but can work with other roman typefaces. More detailed design notes can be seen [here](https://tosche.net/fonts/alcarin-tengwar).
 
 The word 'alcarin' means 'brilliant' in the Quenya language, the High-Elven language by J.R.R. Tolkien.
+
+Alcarin Tengwar is released under Open Font License 1.1.
 
 ## Contents
 - Font Source: Glyphs 2 font source file as well as GlyphsData.xml to be installed in the ~/Library/Application Support/Glyphs 3/Info folder. [Further reading](https://glyphsapp.com/learn/roll-your-own-glyph-data)
