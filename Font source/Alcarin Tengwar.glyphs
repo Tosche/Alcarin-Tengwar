@@ -60,7 +60,7 @@ name = sarinceTop1;
 customParameters = (
 {
 name = versionString;
-value = "0.66\012- Hook-shaped tehtar are slightly enlarged for legibility.\012- Silme and reverse silme are slightly thickened for legibility.\012- Numerals with overscores can now be input by typing macron-teng (u+E050) after.\012- Minor glyphs’ codepoints have been fixed (there were typos in the codepoints). Since they go beyond the designated Tengwar table of ConScript’s unofficial Unicode registory, any characters beyond E07F are subject to yet another migration.\012\0120.65\012- Added Latin from Noto Serif to make the font appear on macOS.\012\0120.61\012- Added Unicode-standard dot punctuations for three-dots and four-dots (⁝ ⁘).\012- silme and reversed silme spaced a little wider.\012- U and O tehta (the hook-shaped diacritics) and acutes have been slightly enlarged.\012\0120.6\012- Initial public release.";
+value = "0.67 : 6 Jan 2022\012- Set the numerals to RTL\012- Set the Rumilian numerals to bidirectional (I don't know if it's exclusively RTL or LTR)\012- Set all diacritics to bidirectional (technically I could have set to RTL to only those used in the numerals, but I wanted to avoid making pockets of exceptions)\012\0120.66 : 5 Jan 2022\012- Hook-shaped tehtar are slightly enlarged for legibility.\012- Silme and reverse silme are slightly thickened for legibility.\012- Numerals with overscores can now be input by typing macron-teng (u+E050) after.\012- Minor glyphs’ codepoints have been fixed (there were typos in the codepoints). Since they go beyond the designated Tengwar table of ConScript’s unofficial Unicode registory, any characters beyond E07F are subject to yet another migration.\012\0120.65 : Jan 2022\012- Added Latin from Noto Serif to make the font appear on macOS.\012\0120.61 : 4 Jan 2022\012- Added Unicode-standard dot punctuations for three-dots and four-dots (⁝ ⁘).\012- silme and reversed silme spaced a little wider.\012- U and O tehta (the hook-shaped diacritics) and acutes have been slightly enlarged.\012\0120.6 : 4 Jan 2022\012- Initial public release.";
 },
 {
 name = license;
@@ -39283,7 +39283,7 @@ rightMetricsKey = "sarincefina-teng";
 },
 {
 glyphname = "zero-teng";
-lastChange = "2022-01-04 13:41:26 +0000";
+lastChange = "2022-01-06 14:24:57 +0000";
 layers = (
 {
 anchors = (
@@ -39328,7 +39328,7 @@ unicode = E070;
 },
 {
 glyphname = "one-teng";
-lastChange = "2016-04-14 00:10:50 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -40226,7 +40226,7 @@ unicode = E071;
 },
 {
 glyphname = "two-teng";
-lastChange = "2016-04-14 00:14:52 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -41649,7 +41649,7 @@ unicode = E072;
 },
 {
 glyphname = "three-teng";
-lastChange = "2016-04-14 00:16:23 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -43812,7 +43812,7 @@ unicode = E073;
 },
 {
 glyphname = "four-teng";
-lastChange = "2016-04-14 23:47:40 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -44466,7 +44466,7 @@ unicode = E074;
 },
 {
 glyphname = "five-teng";
-lastChange = "2016-04-14 23:56:00 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -46069,7 +46069,7 @@ unicode = E075;
 },
 {
 glyphname = "six-teng";
-lastChange = "2016-04-14 23:57:43 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -48230,7 +48230,7 @@ unicode = E076;
 },
 {
 glyphname = "seven-teng";
-lastChange = "2016-05-22 17:54:41 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -48372,7 +48372,7 @@ unicode = E077;
 },
 {
 glyphname = "eight-teng";
-lastChange = "2022-01-04 14:00:06 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -48604,7 +48604,7 @@ unicode = E078;
 },
 {
 glyphname = "nine-teng";
-lastChange = "2022-01-04 14:00:10 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -48912,7 +48912,7 @@ unicode = E079;
 },
 {
 glyphname = "ten-teng";
-lastChange = "2016-04-15 20:53:59 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -49111,7 +49111,7 @@ unicode = E07A;
 },
 {
 glyphname = "eleven-teng";
-lastChange = "2016-04-15 20:54:10 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -49440,7 +49440,7 @@ unicode = E07B;
 },
 {
 glyphname = "twelve-teng";
-lastChange = "2016-04-14 00:03:51 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -49658,7 +49658,7 @@ unicode = E07C;
 {
 color = 9;
 glyphname = "zerorumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -49928,7 +49928,7 @@ unicode = E100;
 {
 color = 9;
 glyphname = "onerumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -50064,7 +50064,7 @@ unicode = E101;
 {
 color = 9;
 glyphname = "tworumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -50366,7 +50366,7 @@ unicode = E102;
 {
 color = 9;
 glyphname = "threerumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -50865,7 +50865,7 @@ unicode = E103;
 {
 color = 9;
 glyphname = "fourrumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -51136,7 +51136,7 @@ unicode = E104;
 {
 color = 9;
 glyphname = "fiverumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -51287,7 +51287,7 @@ unicode = E105;
 {
 color = 9;
 glyphname = "sixrumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -51553,7 +51553,7 @@ unicode = E106;
 {
 color = 9;
 glyphname = "sevenrumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -51789,7 +51789,7 @@ unicode = E107;
 {
 color = 9;
 glyphname = "eightrumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -52076,7 +52076,7 @@ unicode = E108;
 {
 color = 9;
 glyphname = "ninerumilian-teng";
-lastChange = "2022-01-06 02:02:16 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -52428,7 +52428,7 @@ unicode = E109;
 },
 {
 glyphname = "zero-teng.ss01";
-lastChange = "2022-01-04 14:00:34 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -52515,7 +52515,7 @@ widthMetricsKey = "zero-teng";
 },
 {
 glyphname = "one-teng.ss01";
-lastChange = "2016-05-23 01:53:47 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -52602,7 +52602,7 @@ widthMetricsKey = "one-teng";
 },
 {
 glyphname = "two-teng.ss01";
-lastChange = "2016-05-23 01:54:02 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -52689,7 +52689,7 @@ widthMetricsKey = "two-teng";
 },
 {
 glyphname = "three-teng.ss01";
-lastChange = "2016-05-23 01:54:17 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -52799,7 +52799,7 @@ widthMetricsKey = "three-teng";
 },
 {
 glyphname = "four-teng.ss01";
-lastChange = "2016-05-23 01:09:53 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -52927,7 +52927,7 @@ width = 349;
 },
 {
 glyphname = "five-teng.ss01";
-lastChange = "2016-05-23 01:54:22 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -53275,7 +53275,7 @@ width = 705;
 },
 {
 glyphname = "six-teng.ss01";
-lastChange = "2016-05-23 01:54:31 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -53725,7 +53725,7 @@ width = 965;
 },
 {
 glyphname = "seven-teng.ss01";
-lastChange = "2016-05-23 01:09:53 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -53971,7 +53971,7 @@ width = 345;
 },
 {
 glyphname = "eight-teng.ss01";
-lastChange = "2016-05-23 01:55:00 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -54177,7 +54177,7 @@ width = 668;
 },
 {
 glyphname = "nine-teng.ss01";
-lastChange = "2016-05-23 01:55:09 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -54391,7 +54391,7 @@ width = 928;
 },
 {
 glyphname = "ten-teng.ss01";
-lastChange = "2016-05-23 01:09:53 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -54599,7 +54599,7 @@ width = 518;
 },
 {
 glyphname = "eleven-teng.ss01";
-lastChange = "2016-05-23 01:09:53 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 anchors = (
@@ -54906,7 +54906,7 @@ width = 513;
 },
 {
 glyphname = "twelve-teng.ss01";
-lastChange = "2016-05-23 01:09:53 +0000";
+lastChange = "2022-01-06 14:25:13 +0000";
 layers = (
 {
 components = (
@@ -68533,7 +68533,7 @@ width = 240;
 },
 {
 glyphname = "dottripleabove-teng";
-lastChange = "2016-05-25 23:49:33 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -68786,7 +68786,7 @@ unicode = E040;
 },
 {
 glyphname = "dottriplebelow-teng";
-lastChange = "2016-05-25 23:50:20 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -68835,7 +68835,7 @@ unicode = E041;
 },
 {
 glyphname = "dotdblabove-teng";
-lastChange = "2016-05-23 02:01:43 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69020,7 +69020,7 @@ unicode = E042;
 },
 {
 glyphname = "dotdblelow-teng";
-lastChange = "2016-05-23 02:01:52 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69069,7 +69069,7 @@ unicode = E043;
 },
 {
 glyphname = "dotabove-teng";
-lastChange = "2016-05-23 02:02:02 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69144,7 +69144,7 @@ unicode = E044;
 },
 {
 glyphname = "dotbelow-teng";
-lastChange = "2016-05-23 02:03:01 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69193,7 +69193,7 @@ unicode = E045;
 },
 {
 glyphname = "acute-teng";
-lastChange = "2022-01-05 14:26:24 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69300,7 +69300,7 @@ unicode = E046;
 },
 {
 glyphname = "acute_acute-teng";
-lastChange = "2022-01-05 14:26:45 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69464,7 +69464,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "acutebelow-teng";
-lastChange = "2022-01-05 14:26:34 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69513,7 +69513,7 @@ unicode = E047;
 },
 {
 glyphname = "acutebelow_acutebelow-teng";
-lastChange = "2022-01-05 14:26:55 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69563,7 +69563,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "rightcurl-teng";
-lastChange = "2022-01-05 14:29:24 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69728,7 +69728,7 @@ unicode = E04A;
 },
 {
 glyphname = "rightcurl_rightcurl-teng";
-lastChange = "2022-01-05 14:29:51 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69896,7 +69896,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "rightcurlbelow-teng";
-lastChange = "2022-01-05 14:30:55 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -69945,7 +69945,7 @@ unicode = E04B;
 },
 {
 glyphname = "leftcurl-teng";
-lastChange = "2022-01-05 23:21:57 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -70112,7 +70112,7 @@ unicode = E04C;
 },
 {
 glyphname = "leftcurl_leftcurl-teng";
-lastChange = "2022-01-05 14:33:16 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -70386,7 +70386,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "leftcurlbelow-teng";
-lastChange = "2022-01-05 14:29:20 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -70436,7 +70436,7 @@ unicode = E04D;
 {
 color = 9;
 glyphname = "ring-teng";
-lastChange = "2022-01-04 14:59:14 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -70584,7 +70584,7 @@ unicode = E04E;
 {
 color = 9;
 glyphname = "wave-teng";
-lastChange = "2022-01-04 14:59:22 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -70716,7 +70716,7 @@ unicode = E04F;
 },
 {
 glyphname = "macron-teng";
-lastChange = "2016-05-23 02:04:41 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -70871,7 +70871,7 @@ unicode = E050;
 },
 {
 glyphname = "macronbelow-teng";
-lastChange = "2016-05-25 23:58:14 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -70920,7 +70920,7 @@ unicode = E051;
 },
 {
 glyphname = "tilde-teng";
-lastChange = "2016-05-23 02:04:53 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -71129,7 +71129,7 @@ unicode = E052;
 },
 {
 glyphname = "breve-teng";
-lastChange = "2016-05-25 23:52:11 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -71270,7 +71270,7 @@ unicode = E053;
 },
 {
 glyphname = "grave-teng";
-lastChange = "2016-05-23 02:05:07 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -71354,7 +71354,7 @@ unicode = E054;
 },
 {
 glyphname = "caron-teng";
-lastChange = "2016-05-23 02:05:13 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -71562,7 +71562,7 @@ unicode = E055;
 },
 {
 glyphname = "dottripleturnedabove-teng";
-lastChange = "2016-05-25 23:47:47 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -71705,7 +71705,7 @@ unicode = E056;
 },
 {
 glyphname = "thinnas-teng";
-lastChange = "2016-05-25 00:45:04 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -72062,7 +72062,7 @@ unicode = E057;
 },
 {
 glyphname = "sarince-teng";
-lastChange = "2016-05-25 23:51:19 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -72280,7 +72280,7 @@ unicode = E059;
 },
 {
 glyphname = "dotinside-teng";
-lastChange = "2016-04-16 18:48:26 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -72348,7 +72348,7 @@ unicode = E05A;
 {
 color = 9;
 glyphname = "rightcurlbelowright-teng";
-lastChange = "2022-01-06 02:31:37 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -72395,7 +72395,7 @@ unicode = E05F;
 },
 {
 glyphname = "duodecimalleast-teng";
-lastChange = "2016-04-16 14:20:47 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -72496,7 +72496,7 @@ unicode = E07D;
 },
 {
 glyphname = "macronbelow-teng.lambe";
-lastChange = "2016-05-23 01:09:53 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -72651,7 +72651,7 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.short";
-lastChange = "2022-01-04 13:15:11 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -72815,7 +72815,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.short";
-lastChange = "2016-05-25 23:39:47 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -72975,7 +72975,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.short";
-lastChange = "2022-01-02 14:52:39 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -73025,7 +73025,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "tilde-teng.short";
-lastChange = "2016-05-23 02:05:44 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -73234,7 +73234,7 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.shortL";
-lastChange = "2022-01-04 13:15:11 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -73398,7 +73398,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.shortL";
-lastChange = "2016-05-25 23:37:47 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -73559,7 +73559,7 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.shortR";
-lastChange = "2022-01-04 13:15:11 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -73723,7 +73723,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.shortR";
-lastChange = "2016-05-25 23:39:53 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -73883,7 +73883,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.shortR";
-lastChange = "2022-01-02 14:52:39 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -73934,7 +73934,7 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "caron-teng.ss06";
-lastChange = "2022-01-04 16:54:26 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -74255,7 +74255,7 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.wide";
-lastChange = "2022-01-04 13:15:11 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -74419,7 +74419,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.wide";
-lastChange = "2016-05-25 23:39:57 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
@@ -74573,7 +74573,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.wide";
-lastChange = "2022-01-02 14:52:39 +0000";
+lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
 anchors = (
