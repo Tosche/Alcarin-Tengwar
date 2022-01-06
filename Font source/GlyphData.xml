@@ -152,10 +152,9 @@
 	<glyph unicode="E090" name="equalthorin-teng" sortName="teng250" category="Symbol" script="tengwar" production="uniE090" direction="LRT" description="TENGWAR THORIN EQUAL SYMBOL" />
 	<glyph unicode="E091" name="thereforethorin-teng" sortName="teng251" category="Symbol" script="tengwar" production="uniE091" direction="LRT" description="TENGWAR THORIN THEREFORE SYMBOL" />
 	<glyph unicode="E092" name="thenthorin-teng" sortName="teng252" category="Symbol" script="tengwar" production="uniE092" direction="LRT" description="TENGWAR THORIN THEN SYMBOL" />
-	<glyph unicode="E093" name="nextthorin-teng" sortName="teng253" category="Symbol" script="tengwar" production="uniE093" direction="LRT" description="TENGWAR THORIN THEN SYMBOL" />
-	<glyph unicode="E094" name="nextthorin-teng" sortName="teng254" category="Punctuation" script="tengwar" production="uniE094" direction="LRT" description="TENGWAR THORIN COLON MARK" />
+	<glyph unicode="E093" name="nextthorin-teng" sortName="teng253" category="Symbol" script="tengwar" production="uniE093" direction="LRT" description="TENGWAR THORIN NEXT SYMBOL" />
+	<glyph unicode="E094" name="colonthorin-teng" sortName="teng254" category="Punctuation" script="tengwar" production="uniE094" direction="LRT" description="TENGWAR THORIN COLON MARK" />
 	<glyph unicode="E095" name="semicolonthorin-teng" sortName="teng255" category="Punctuation" script="tengwar" production="uniE095" direction="LRT" description="TENGWAR THORIN SEMICOLON MARK" />
-	<glyph unicode="E096" name="colonthorin-teng" sortName="teng256" category="Punctuation" script="tengwar" production="uniE096" direction="LRT" description="TENGWAR THORIN COLON MARK" />
 	<glyph unicode="E100" name="zerorumilian-teng" sortName="teng260" category="Number" script="tengwar" production="uniE170" direction="LRT" description="TENGWAR DIGIT RUMILIAN ZERO" anchors="top, bottom" marks="dotabove-teng, dotbelow-teng, duodecimalleast-teng" />
 	<glyph unicode="E101" name="onerumilian-teng" sortName="teng261" category="Number" script="tengwar" production="uniE101" direction="LRT" description="TENGWAR DIGIT RUMILIAN ONE" anchors="top, bottom" marks="dotabove-teng, dotbelow-teng, duodecimalleast-teng" />
 	<glyph unicode="E102" name="tworumilian-teng" sortName="teng262" category="Number" script="tengwar" production="uniE102" direction="LRT" description="TENGWAR DIGIT RUMILIAN TWO" anchors="top, bottom" marks="dotabove-teng, dotbelow-teng, duodecimalleast-teng" />

@@ -59,10 +59,10 @@ Below is the character map as of the font v 0.66:
 | u+E032 | <img src="SVGs/E032.svg" height="40"> | Letter | TENGWAR LETTER OSSE |
 | u+E033 |  | --- | (unused) |
 | u+E034 | <img src="SVGs/E034.svg" height="40"> | Letter | TENGWAR LETTER LIGATING SHORT CARRIER |
-| u+E035 |  | Letter | TENGWAR LETTER ANNA SINDARINWA |
+| u+E035 | N/A | Letter | TENGWAR LETTER ANNA SINDARINWA |
 | u+E036 | <img src="SVGs/E036.svg" height="40"> | Letter | TENGWAR LETTER OPEN ANNA |
 | u+E037 | <img src="SVGs/E037.svg" height="40"> | Letter | TENGWAR LETTER CHRISTOPHER QU |
-| u+E038 | <img src="SVGs/E038.svg" height="40"> | Letter | TENGWAR LETTER REVERSED FORMEN |
+| u+E038 | N/A | Letter | TENGWAR LETTER REVERSED FORMEN |
 | u+E039 | <img src="SVGs/E039.svg" height="40"> | Letter | TENGWAR LETTER BOMBADIL HW |
 | u+E03A | <img src="SVGs/E03A.svg" height="40"> | Letter | TENGWAR LETTER MH |
 | u+E03B | <img src="SVGs/E03B.svg" height="40"> | Letter | TENGWAR LETTER BELERIANDIC MH |
@@ -78,8 +78,8 @@ Below is the character map as of the font v 0.66:
 | u+E045 | <img src="SVGs/E045.svg" height="40"> | Mark | TENGWAR COMBINING MARK UNUTIXE (DOT BELOW) |
 | u+E046 | <img src="SVGs/E046.svg" height="40"> | Mark | TENGWAR COMBINING MARK ACUTE (ANDAITH, LONG MARK, TECCO) |
 | u+E047 | <img src="SVGs/E047.svg" height="40"> | Mark | TENGWAR COMBINING MARK ACUTE BELOW |
-| u+E048 | <img src="SVGs/E048.svg" height="40"> | Mark | TENGWAR COMBINING MARK DOUBLE ACUTE |
-| u+E049 | <img src="SVGs/E049.svg" height="40"> | Mark | TENGWAR COMBINING MARK DOUBLE ACUTE BELOW |
+| u+E048 | N/A | Mark | TENGWAR COMBINING MARK DOUBLE ACUTE |
+| u+E049 | N/A | Mark | TENGWAR COMBINING MARK DOUBLE ACUTE BELOW |
 | u+E04A | <img src="SVGs/E04A.svg" height="40"> | Mark | TENGWAR COMBINING MARK RIGHT CURL |
 | u+E04B | <img src="SVGs/E04B.svg" height="40"> | Mark | TENGWAR COMBINING MARK RIGHT CURL BELOW |
 | u+E04C | <img src="SVGs/E04C.svg" height="40"> | Mark | TENGWAR COMBINING MARK LEFT CURL |
@@ -100,7 +100,7 @@ Below is the character map as of the font v 0.66:
 | u+E05B | <img src="SVGs/E05B.svg" height="40"> | Letter | TENGWAR SIGN SA-RINCE ENDING 2 |
 | u+E05C | <img src="SVGs/E05C.svg" height="40"> | Letter | TENGWAR SIGN SA-RINCE ENDING 3 |
 | u+E05D | <img src="SVGs/E05D.svg" height="40"> | Letter | TENGWAR SIGN SA-RINCE ENDING |
-| u+E05E | <img src="SVGs/E05E.svg" height="40"> | Mark | TENGWAR COMBINING MARK LEFT CURL BELOW RIGHT |
+| u+E05E | N/A | Mark | TENGWAR COMBINING MARK LEFT CURL BELOW RIGHT |
 | u+E05F | <img src="SVGs/E05F.svg" height="40"> | Mark | TENGWAR COMBINING MARK RIGHT CURL BELOW RIGHT |
 | u+E060 | <img src="SVGs/E060.svg" height="40"> | Punctuation | TENGWAR PUSTA (PUTTA, STOP) |
 | u+E061 | <img src="SVGs/E061.svg" height="40"> | Punctuation | TENGWAR DOUBLE PUSTA (PUTTA) |
@@ -153,10 +153,10 @@ Below is the character map as of the font v 0.66:
 | u+E090 | <img src="SVGs/E090.svg" height="40"> | Symbol | TENGWAR THORIN EQUAL SYMBOL |
 | u+E091 | <img src="SVGs/E091.svg" height="40"> | Symbol | TENGWAR THORIN THEREFORE SYMBOL |
 | u+E092 | <img src="SVGs/E092.svg" height="40"> | Symbol | TENGWAR THORIN THEN SYMBOL |
-| u+E093 | <img src="SVGs/E093.svg" height="40"> | Symbol | TENGWAR THORIN THEN SYMBOL |
+| u+E093 | <img src="SVGs/E093.svg" height="40"> | Symbol | TENGWAR THORIN NEXT SYMBOL |
 | u+E094 | <img src="SVGs/E094.svg" height="40"> | Punctuation | TENGWAR THORIN COLON MARK |
 | u+E095 | <img src="SVGs/E095.svg" height="40"> | Punctuation | TENGWAR THORIN SEMICOLON MARK |
-| u+E096 | <img src="SVGs/E096.svg" height="40"> | Punctuation | TENGWAR THORIN COLON MARK |
+| u+E096 |  | --- | (unused) |
 | u+E097 |  | --- | (unused) |
 | u+E098 |  | --- | (unused) |
 | u+E099 |  | --- | (unused) |
