@@ -26,3 +26,22 @@ The Brill fonts are owned by Koninklijke Brill NV. They are not licensed under t
 Alcarin Tengwar is not in any official way associated with either Koninklijke Brill NV or Tolkien Estate (though I have received the blessing of the former; not 100% unofficial). It also does not contain any graphical elements of Brill.
 
 Also, I am a typeface designer, not a linguist. My knowledge on Tengwar and is rusty; if/when you raise issues, I would appreciate an attitude and vocabulary as if you would explain to a newbie.
+
+## Font change log
+0.66
+- Hook-shaped tehtar are slightly enlarged for legibility.
+- Silme and reverse silme are slightly thickened for legibility.
+- Numerals with overscores can now be input by typing macron-teng (u+E050) after.
+- Minor glyphs’ codepoints have been fixed (there were typos in the codepoints). Since they go beyond the designated Tengwar table of ConScript’s unofficial Unicode registory, any characters beyond E07F are subject to yet another migration.
+- Following the change in the character mapping, the XML has been updated.
+
+0.65
+- Added Latin from Noto Serif to make the font appear on macOS.
+
+0.61
+- Added Unicode-standard dot punctuations for three-dots and four-dots (⁝ ⁘).
+- silme and reversed silme spaced a little wider.
+- U and O tehta (the hook-shaped diacritics) and acutes have been slightly enlarged.
+
+0.6
+- Initial public release.
