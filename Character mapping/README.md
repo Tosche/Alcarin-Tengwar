@@ -78,8 +78,8 @@ Below is the character map as of the font v 0.66:
 | u+E045 | <img src="SVGs/E045.svg" height="40"> | Mark | TENGWAR COMBINING MARK UNUTIXE (DOT BELOW) |
 | u+E046 | <img src="SVGs/E046.svg" height="40"> | Mark | TENGWAR COMBINING MARK ACUTE (ANDAITH, LONG MARK, TECCO) |
 | u+E047 | <img src="SVGs/E047.svg" height="40"> | Mark | TENGWAR COMBINING MARK ACUTE BELOW |
-| u+E048 | N/A | Mark | TENGWAR COMBINING MARK DOUBLE ACUTE |
-| u+E049 | N/A | Mark | TENGWAR COMBINING MARK DOUBLE ACUTE BELOW |
+| u+E048 | <img src="SVGs/E048.svg" height="40"> | Mark | TENGWAR COMBINING MARK DOUBLE ACUTE |
+| u+E049 | <img src="SVGs/E049.svg" height="40"> | Mark | TENGWAR COMBINING MARK DOUBLE ACUTE BELOW |
 | u+E04A | <img src="SVGs/E04A.svg" height="40"> | Mark | TENGWAR COMBINING MARK RIGHT CURL |
 | u+E04B | <img src="SVGs/E04B.svg" height="40"> | Mark | TENGWAR COMBINING MARK RIGHT CURL BELOW |
 | u+E04C | <img src="SVGs/E04C.svg" height="40"> | Mark | TENGWAR COMBINING MARK LEFT CURL |

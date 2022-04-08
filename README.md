@@ -28,8 +28,15 @@ Alcarin Tengwar is not in any official way associated with either Koninklijke Br
 Also, I am a typeface designer, not a linguist. My knowledge on Tengwar and is rusty; if/when you raise issues, I would appreciate an attitude and vocabulary as if you would explain to a newbie.
 
 ## Font change log
+0.70 : 8 Apr 2022
+- Kerned /carrier/tehta/carrier/tehta combinations.
+- Added silme_harma-teng ligature for Old English.
+- Added discretionary ligature support by zerowidthjoiner in addition to the existing dlig feature.
+- Added vowel carrier as below combining mark when followed by zerowidthjoiner.
+- Added Unicode code points to the double acute marks above and below.
+
 0.67 : 6 Jan 2022
-- Set the numerals to RTL
+- Set the numerals to RTL (edit: this turned out to have no effect)
 - Set the Rumilian numerals to bidirectional (I don't know if it's exclusively RTL or LTR)
 - Set all diacritics to bidirectional (technically I could have set to RTL to only those used in the numerals, but I wanted to avoid making pockets of exceptions)
 
