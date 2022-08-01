@@ -99,7 +99,7 @@ Below is the character map as of the font v 0.66:
 | u+E05A | <img src="SVGs/E05A.svg" height="40"> | Mark | TENGWAR COMBINING MARK DOT INSIDE |
 | u+E05B | <img src="SVGs/E05B.svg" height="40"> | Letter | TENGWAR SIGN SA-RINCE ENDING 2 |
 | u+E05C | <img src="SVGs/E05C.svg" height="40"> | Letter | TENGWAR SIGN SA-RINCE ENDING 3 |
-| u+E05D | <img src="SVGs/E05D.svg" height="40"> | Letter | TENGWAR SIGN SA-RINCE ENDING |
+| u+E05D | <img src="SVGs/E05D.svg" height="40"> | Letter | TENGWAR SIGN SA-RINCE ENDING 4 |
 | u+E05E | N/A | Mark | TENGWAR COMBINING MARK LEFT CURL BELOW RIGHT |
 | u+E05F | <img src="SVGs/E05F.svg" height="40"> | Mark | TENGWAR COMBINING MARK RIGHT CURL BELOW RIGHT |
 | u+E060 | <img src="SVGs/E060.svg" height="40"> | Punctuation | TENGWAR PUSTA (PUTTA, STOP) |
