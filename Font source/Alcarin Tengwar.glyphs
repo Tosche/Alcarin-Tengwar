@@ -1,11 +1,13 @@
 {
-.appVersion = "3120";
+.appVersion = "3202";
 DisplayStrings = (
 "/lambe-teng/alda-teng/lambe-teng.big/alda-teng.big",
 "/tinco-teng/parma-teng/calma-teng/quesse-teng/ando-teng/umbar-teng/anga-teng/ungwe-teng/thuule-teng/formen-teng/harma-teng/hwesta-teng \012/anto-teng/ampa-teng/anca-teng/unque-teng/nuumen-teng/malta-teng/noldo-teng/nwalme-teng/oore-teng/vala-teng/vala_dotinside-teng \012/anna-teng/vilya-teng/vilya_dotinside-teng/tincoascent-teng/parmaascent-teng/calmaascent-teng/quesseascent-teng/andoascent-teng/umbarascent-teng/angaascent-teng/ungweascent-teng/roomen-teng/arda-teng \012/lambe-teng/alda-teng/silme-teng/silmeturned-teng/aare-teng/aareturned-teng/hyarmen-teng/hwestasindar-teng/yanta-teng/uure-teng/carrierlong-teng/halla-teng/carriershort-teng/ossereversed-teng/wbombadil-teng/osse-teng/carrierschwa-teng/annaopen-teng/quchris-teng \012/hwbombadil-teng/mh-teng/mhbelerian-teng/hwlowdham-teng/vaiya-teng/sarincefina-teng/uureslash-teng/uureslashAlt-teng/carrierlongAlt-teng/lambe-teng.big/alda-teng.big/roomen-teng.bottom/arda-teng.bottom",
 "/tinco_thuule-teng/parma_thuule-teng/parma_formen-teng/calma_thuule-teng/calma_harma-teng/roomen_sarincefina-teng.rlig/arda_sarincefina-teng.rlig/lambe_sarincefina-teng.rlig/alda_sarincefina-teng.rlig/silme_sarincefina-teng.rlig/silmeturned_sarincefina-teng.rlig/aare_sarincefina-teng.rlig/aareturned_sarincefina-teng.rlig \012/hyarmen_sarincefina-teng.rlig/hwestasindar_sarincefina-teng.rlig/yanta_sarincefina-teng.rlig/uure_sarincefina-teng.rlig/halla_sarincefina-teng.rlig/carriershort_sarincefina-teng.rlig/ossereversed_sarincefina-teng.rlig/wbombadil_sarincefina-teng.rlig/osse_sarincefina-teng.rlig/annaopen_sarincefina-teng.rlig/hwbombadil_sarincefina-teng.rlig/hwlowdham_sarincefina-teng.rlig/vaiya_sarincefina-teng.rlig/tinco_sarincefina-teng.short \012/tinco-teng/parma-teng/calma-teng/quesse-teng/ando-teng/umbar-teng/anga-teng/ungwe-teng/thuule-teng/formen-teng/harma-teng/hwesta-teng/anto-teng/ampa-teng \012/anca-teng/unque-teng/nuumen-teng/malta-teng/noldo-teng/nwalme-teng/oore-teng/vala-teng/vala_dotinside-teng/anna-teng/vilya-teng/vilya_dotinside-teng/tincoascent-teng/parmaascent-teng \012/calmaascent-teng/quesseascent-teng/andoascent-teng/umbarascent-teng/angaascent-teng/ungweascent-teng/roomen-teng/arda-teng/lambe-teng/alda-teng/silme-teng/silmeturned-teng/aare-teng/aareturned-teng/hyarmen-teng/hwestasindar-teng/yanta-teng \012/uure-teng/carrierlong-teng/halla-teng/carriershort-teng/ossereversed-teng/wbombadil-teng/osse-teng/carrierschwa-teng/annaopen-teng/quchris-teng/hwbombadil-teng/mh-teng/mhbelerian-teng/hwlowdham-teng/vaiya-teng/sarincefina-teng/uureslash-teng/uureslashAlt-teng/carrierlongAlt-teng/lambe-teng.big/alda-teng.big/roomen-teng.bottom/arda-teng.bottom \012/tinco-teng.sarince/parma-teng.sarince/calma-teng.sarince/quesse-teng.sarince/ando-teng.sarince/umbar-teng.sarince/anga-teng.sarince/ungwe-teng.sarince/thuule-teng.sarince/formen-teng.sarince/harma-teng.sarince/hwesta-teng.sarince/anto-teng.sarince/ampa-teng.sarince/anca-teng.sarince/unque-teng.sarince \012/nuumen-teng.sarince/malta-teng.sarince/noldo-teng.sarince/nwalme-teng.sarince/oore-teng.sarince/vala-teng.sarince/anna-teng.sarince/vilya-teng.sarince/tincoascent-teng.sarince/parmaascent-teng.sarince/calmaascent-teng.sarince/quesseascent-teng.sarince/andoascent-teng.sarince/umbarascent-teng.sarince/angaascent-teng.sarince/ungweascent-teng.sarince",
 "/quesse_sarincefina-teng.rlig/ungwe_sarincefina-teng.rlig/hwesta_sarincefina-teng.rlig/unque_sarincefina-teng.rlig/nwalme_sarincefina-teng.rlig/vilya_sarincefina-teng.rlig/quesseascent_sarincefina-teng.rlig/ungweascent_sarincefina-teng.rlig/quesse-teng/ungwe-teng/hwesta-teng/unque-teng/nwalme-teng/vilya-teng/quesseascent-teng/ungweascent-teng/quesse-teng.sarince/ungwe-teng.sarince/hwesta-teng.sarince/unque-teng.sarince/nwalme-teng.sarince/vilya-teng.sarince/quesseascent-teng.sarince/ungweascent-teng.sarince/vilya-teng",
-"/roomen_sarincefina-teng.rlig/arda_sarincefina-teng.rlig/lambe_sarincefina-teng.rlig/alda_sarincefina-teng.rlig/silme_sarincefina-teng.rlig/silmeturned_sarincefina-teng.rlig/aare_sarincefina-teng.rlig/aareturned_sarincefina-teng.rlig/hyarmen_sarincefina-teng.rlig/hwestasindar_sarincefina-teng.rlig/yanta_sarincefina-teng.rlig/uure_sarincefina-teng.rlig/halla_sarincefina-teng.rlig/carriershort_sarincefina-teng.rlig/ossereversed_sarincefina-teng.rlig/wbombadil_sarincefina-teng.rlig/osse_sarincefina-teng.rlig/annaopen_sarincefina-teng.rlig/hwbombadil_sarincefina-teng.rlig/hwlowdham_sarincefina-teng.rlig/vaiya_sarincefina-teng.rlig/tinco_sarincefina-teng.short/tinco_sarincefina-teng.rlig/parma_sarincefina-teng.rlig/calma_sarincefina-teng.rlig/quesse_sarincefina-teng.rlig/ando_sarincefina-teng.rlig/umbar_sarincefina-teng.rlig/anga_sarincefina-teng.rlig/ungwe_sarincefina-teng.rlig/thuule_sarincefina-teng.rlig/formen_sarincefina-teng.rlig/harma_sarincefina-teng.rlig/hwesta_sarincefina-teng.rlig/anto_sarincefina-teng.rlig/ampa_sarincefina-teng.rlig/anca_sarincefina-teng.rlig/unque_sarincefina-teng.rlig/nuumen_sarincefina-teng.rlig/malta_sarincefina-teng.rlig/noldo_sarincefina-teng.rlig/nwalme_sarincefina-teng.rlig/oore_sarincefina-teng.rlig/vala_sarincefina-teng.rlig/anna_sarincefina-teng.rlig/vilya_sarincefina-teng.rlig/tincoascent_sarincefina-teng.rlig/parmaascent_sarincefina-teng.rlig/calmaascent_sarincefina-teng.rlig/quesseascent_sarincefina-teng.rlig/andoascent_sarincefina-teng.rlig/umbarascent_sarincefina-teng.rlig/angaascent_sarincefina-teng.rlig/ungweascent_sarincefina-teng.rlig/carrierlong_sarincefina-teng.rlig/quchris_sarincefina-teng.rlig/mh_sarincefina-teng.rlig/mhbelerian_sarincefina-teng.rlig"
+"/roomen_sarincefina-teng.rlig/arda_sarincefina-teng.rlig/lambe_sarincefina-teng.rlig/alda_sarincefina-teng.rlig/silme_sarincefina-teng.rlig/silmeturned_sarincefina-teng.rlig/aare_sarincefina-teng.rlig/aareturned_sarincefina-teng.rlig/hyarmen_sarincefina-teng.rlig/hwestasindar_sarincefina-teng.rlig/yanta_sarincefina-teng.rlig/uure_sarincefina-teng.rlig/halla_sarincefina-teng.rlig/carriershort_sarincefina-teng.rlig/ossereversed_sarincefina-teng.rlig/wbombadil_sarincefina-teng.rlig/osse_sarincefina-teng.rlig/annaopen_sarincefina-teng.rlig/hwbombadil_sarincefina-teng.rlig/hwlowdham_sarincefina-teng.rlig/vaiya_sarincefina-teng.rlig/tinco_sarincefina-teng.short/tinco_sarincefina-teng.rlig/parma_sarincefina-teng.rlig/calma_sarincefina-teng.rlig/quesse_sarincefina-teng.rlig/ando_sarincefina-teng.rlig/umbar_sarincefina-teng.rlig/anga_sarincefina-teng.rlig/ungwe_sarincefina-teng.rlig/thuule_sarincefina-teng.rlig/formen_sarincefina-teng.rlig/harma_sarincefina-teng.rlig/hwesta_sarincefina-teng.rlig/anto_sarincefina-teng.rlig/ampa_sarincefina-teng.rlig/anca_sarincefina-teng.rlig/unque_sarincefina-teng.rlig/nuumen_sarincefina-teng.rlig/malta_sarincefina-teng.rlig/noldo_sarincefina-teng.rlig/nwalme_sarincefina-teng.rlig/oore_sarincefina-teng.rlig/vala_sarincefina-teng.rlig/anna_sarincefina-teng.rlig/vilya_sarincefina-teng.rlig/tincoascent_sarincefina-teng.rlig/parmaascent_sarincefina-teng.rlig/calmaascent_sarincefina-teng.rlig/quesseascent_sarincefina-teng.rlig/andoascent_sarincefina-teng.rlig/umbarascent_sarincefina-teng.rlig/angaascent_sarincefina-teng.rlig/ungweascent_sarincefina-teng.rlig/carrierlong_sarincefina-teng.rlig/quchris_sarincefina-teng.rlig/mh_sarincefina-teng.rlig/mhbelerian_sarincefina-teng.rlig",
+"/thuule-teng/macron-teng/macron-teng.shortR/silme-teng/aare-teng/hyarmen-teng/hwestasindar-teng/hwlowdham-teng",
+"/pusta-teng/pustadbl-teng/pustatriple-teng"
 );
 classes = (
 {
@@ -69,7 +71,7 @@ name = kern_dot_triple;
 customParameters = (
 {
 name = versionString;
-value = "0.68 : 7 Jan 2022\012- Set the existing letters to lowercase in anticipation of adding capitals.\012\0120.67 : 6 Jan 2022\012- Set the numerals to RTL.\012- Set the Rumilian numerals to bidirectional (I don't know if it's exclusively RTL or LTR).\012- Set all diacritics to bidirectional (technically I could have set to RTL to only those used in the numerals, but I wanted to avoid making pockets of exceptions).\012\0120.66 : 5 Jan 2022\012- Hook-shaped tehtar are slightly enlarged for legibility.\012- Silme and reverse silme are slightly thickened for legibility.\012- Numerals with overscores can now be input by typing macron-teng (u+E050) after.\012- Minor glyphs’ codepoints have been fixed (there were typos in the codepoints). Since they go beyond the designated Tengwar table of ConScript’s unofficial Unicode registory, any characters beyond E07F are subject to yet another migration.\012\0120.65 : Jan 2022\012- Added Latin from Noto Serif to make the font appear on macOS.\012\0120.61 : 4 Jan 2022\012- Added Unicode-standard dot punctuations for three-dots and four-dots (⁝ ⁘).\012- silme and reversed silme spaced a little wider.\012- U and O tehta (the hook-shaped diacritics) and acutes have been slightly enlarged.\012\0120.6 : 4 Jan 2022\012- Initial public release.";
+value = "0.8 : 2 Jul 2023\012- Aligned the macron height in Silme and Aare (was previously higher).\012- Added top and bottom anchors to pusta, double pusta, and triple pusta, allowing them to carry diacritics.\012\0120.68 : 7 Jan 2022\012- Set the existing letters to lowercase in anticipation of adding capitals.\012\0120.67 : 6 Jan 2022\012- Set the numerals to RTL.\012- Set the Rumilian numerals to bidirectional (I don't know if it's exclusively RTL or LTR).\012- Set all diacritics to bidirectional (technically I could have set to RTL to only those used in the numerals, but I wanted to avoid making pockets of exceptions).\012\0120.66 : 5 Jan 2022\012- Hook-shaped tehtar are slightly enlarged for legibility.\012- Silme and reverse silme are slightly thickened for legibility.\012- Numerals with overscores can now be input by typing macron-teng (u+E050) after.\012- Minor glyphs’ codepoints have been fixed (there were typos in the codepoints). Since they go beyond the designated Tengwar table of ConScript’s unofficial Unicode registory, any characters beyond E07F are subject to yet another migration.\012\0120.65 : Jan 2022\012- Added Latin from Noto Serif to make the font appear on macOS.\012\0120.61 : 4 Jan 2022\012- Added Unicode-standard dot punctuations for three-dots and four-dots (⁝ ⁘).\012- silme and reversed silme spaced a little wider.\012- U and O tehta (the hook-shaped diacritics) and acutes have been slightly enlarged.\012\0120.6 : 4 Jan 2022\012- Initial public release.";
 },
 {
 name = license;
@@ -106,7 +108,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "lookup basetransform { # tengwa (base letter) alternates\012	sub hyarmen-teng' @accbottom @accbottom @accbottom @acctop by hyarmen-teng.top;\012	sub hyarmen-teng' @accbottom @accbottom @acctop by hyarmen-teng.top;\012	sub hyarmen-teng' @accbottom @acctop by hyarmen-teng.top;\012	sub hyarmen-teng' @acctop by hyarmen-teng.top;\012\012	sub [roomen-teng arda-teng]' @acctop @acctop @acctop @accbottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @acctop @acctop @accbottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @acctop @accbottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @accbottom by [roomen-teng.bottom arda-teng.bottom];\012\012	sub lambe-teng' @acctop @acctop @acctop @accbottom by lambe-teng.big;\012	sub lambe-teng' @acctop @acctop @accbottom by lambe-teng.big;\012	sub lambe-teng' @acctop @accbottom by lambe-teng.big;\012	sub lambe-teng' @accbottom by lambe-teng.big;\012\012	sub alda-teng' @acctop @acctop @acctop @accbottom by alda-teng.big;\012	sub alda-teng' @acctop @acctop @accbottom by alda-teng.big;\012	sub alda-teng' @acctop @accbottom by alda-teng.big;\012	sub alda-teng' @accbottom by alda-teng.big;\012} basetransform;\012\012lookup wideacc { # Wide accents in general\012	sub @wide @acctop @acctop [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012	sub @wide @acctop [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012	sub @wide [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012} wideacc;\012\012lookup narrowacc { # Narrow accents in general\012	sub [thuule-teng formen-teng tincoascent-teng parmaascent-teng hwlowdham-teng sarincefina-teng sarincefina2-teng sarincefina2-teng.top sarincefina3-teng sarincefina3-teng.top sarincefina-teng.top ] @acctop [macron-teng wave-teng]' by [macron-teng.shortR wave-teng.shortR];\012	sub [thuule-teng formen-teng tincoascent-teng parmaascent-teng hwlowdham-teng sarincefina-teng sarincefina2-teng sarincefina2-teng.top sarincefina3-teng sarincefina3-teng.top sarincefina-teng.top ] [tilde-teng macron-teng wave-teng]' by [tilde-teng.short macron-teng.shortR wave-teng.shortR];\012	sub [harma-teng hwesta-teng calmaascent-teng quesseascent-teng hwestasindar-teng] @acctop [macron-teng wave-teng]' by [macron-teng.shortL wave-teng.shortL];\012	sub [harma-teng hwesta-teng calmaascent-teng quesseascent-teng hwestasindar-teng] [macron-teng wave-teng]' by [macron-teng.shortL wave-teng.shortL];\012	sub [hyarmen-teng.top silme-teng aare-teng carrierlong-teng halla-teng carriershort-teng] [tilde-teng macron-teng wave-teng]' by [tilde-teng.short macron-teng.short wave-teng.short];\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @acctop @acctop @acctop @acctop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @acctop @acctop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @acctop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] macronbelow-teng' by macronbelow-teng.short;\012} narrowacc;\012\012lookup doubleacc { # Diacritical ligatures\012	sub acute-teng acute-teng by acute_acute-teng;\012	sub leftcurl-teng leftcurl-teng by leftcurl_leftcurl-teng;\012	sub rightcurl-teng rightcurl-teng by rightcurl_rightcurl-teng;\012	sub acutebelow-teng acutebelow-teng by acutebelow_acutebelow-teng;\012} doubleacc;\012\012lookup carrierLongBelow { # long carrier can become below mark in Old English\012	sub zerowidthjoiner carrierlong-teng by carrierlongBelow-teng;\012} carrierLongBelow;\012\012lookup lambeacc { # Macron for lambe\012	sub lambe-teng.big @acctop @acctop @acctop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big @acctop @acctop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big @acctop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big macronbelow-teng' by macronbelow-teng.lambe;\012} lambeacc;\012\012lookup sarince { # Sarince connection\012	sub @sarinceTop0' @accall @accall @accall @accall @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall @accall @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' sarincefina-teng by @sarinceTop1;\012\012	sub @sarinceTop1 @accall @accall @accall @accall @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall @accall @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 sarincefina-teng' by sarincefina-teng.top;\012\012	sub @sarinceBottom0' @accall @accall @accall @accall @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall @accall @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' sarincefina-teng by @sarinceBottom1;\012} sarince;\012\012lookup dotinsideContextual {\012	sub dottedCircle' dotinside-teng by dottedCircle.circle;\012} dotinsideContextual;\012\012lookup dotinsideLigature {\012	sub vala-teng dotinside-teng by vala_dotinside-teng;\012	sub vilya-teng dotinside-teng by vilya_dotinside-teng;\012} dotinsideLigature;\012";
+code = "lookup basetransform { # tengwa (base letter) alternates\012	sub hyarmen-teng' @accbottom @accbottom @accbottom @acctop by hyarmen-teng.top;\012	sub hyarmen-teng' @accbottom @accbottom @acctop by hyarmen-teng.top;\012	sub hyarmen-teng' @accbottom @acctop by hyarmen-teng.top;\012	sub hyarmen-teng' @acctop by hyarmen-teng.top;\012\012	sub [roomen-teng arda-teng]' @acctop @acctop @acctop @accbottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @acctop @acctop @accbottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @acctop @accbottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @accbottom by [roomen-teng.bottom arda-teng.bottom];\012\012	sub lambe-teng' @acctop @acctop @acctop @accbottom by lambe-teng.big;\012	sub lambe-teng' @acctop @acctop @accbottom by lambe-teng.big;\012	sub lambe-teng' @acctop @accbottom by lambe-teng.big;\012	sub lambe-teng' @accbottom by lambe-teng.big;\012\012	sub alda-teng' @acctop @acctop @acctop @accbottom by alda-teng.big;\012	sub alda-teng' @acctop @acctop @accbottom by alda-teng.big;\012	sub alda-teng' @acctop @accbottom by alda-teng.big;\012	sub alda-teng' @accbottom by alda-teng.big;\012} basetransform;\012\012lookup wideacc { # Wide accents in general\012	sub @wide @acctop @acctop [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012	sub @wide @acctop [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012	sub @wide [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012} wideacc;\012\012lookup narrowacc { # Narrow accents in general\012	sub [thuule-teng formen-teng tincoascent-teng parmaascent-teng hwlowdham-teng sarincefina-teng sarincefina2-teng sarincefina2-teng.top sarincefina3-teng sarincefina3-teng.top sarincefina-teng.top ] @acctop [macron-teng wave-teng]' by [macron-teng.shortR wave-teng.shortR];\012	sub [thuule-teng formen-teng tincoascent-teng parmaascent-teng hwlowdham-teng sarincefina-teng sarincefina2-teng sarincefina2-teng.top sarincefina3-teng sarincefina3-teng.top sarincefina-teng.top ] [tilde-teng macron-teng wave-teng]' by [tilde-teng.short macron-teng.shortR wave-teng.shortR];\012	sub [harma-teng hwesta-teng calmaascent-teng quesseascent-teng hwestasindar-teng] @acctop [macron-teng wave-teng]' by [macron-teng.shortL wave-teng.shortL];\012	sub [harma-teng hwesta-teng calmaascent-teng quesseascent-teng hwestasindar-teng] [macron-teng wave-teng]' by [macron-teng.shortL wave-teng.shortL];\012	sub [hyarmen-teng.top silme-teng aare-teng carrierlong-teng halla-teng carriershort-teng] [tilde-teng macron-teng wave-teng]' by [tilde-teng.short macron-teng.short wave-teng.short];\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @acctop @acctop @acctop @acctop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @acctop @acctop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @acctop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] macronbelow-teng' by macronbelow-teng.short;\012} narrowacc;\012\012lookup doubleacc { # Diacritical ligatures\012	sub acute-teng acute-teng by acute_acute-teng;\012	sub leftcurl-teng leftcurl-teng by leftcurl_leftcurl-teng;\012	sub rightcurl-teng rightcurl-teng by rightcurl_rightcurl-teng;\012	sub acutebelow-teng acutebelow-teng by acutebelow_acutebelow-teng;\012} doubleacc;\012\012lookup carrierLongBelow { # long carrier can become below mark in Old English\012	sub zerowidthjoiner carrierlong-teng by carrierlongBelow-teng;\012} carrierLongBelow;\012\012lookup lambeacc { # Macron for lambe\012	sub lambe-teng.big @acctop @acctop @acctop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big @acctop @acctop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big @acctop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big macronbelow-teng' by macronbelow-teng.lambe;\012} lambeacc;\012\012lookup macronSilme { # macron for silme\012	sub [silme-teng aare-teng] macron-teng.short' by macron-teng.silme;\012} macronSilme;\012\012lookup sarince { # Sarince connection\012	sub @sarinceTop0' @accall @accall @accall @accall @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall @accall @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accall sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' sarincefina-teng by @sarinceTop1;\012\012	sub @sarinceTop1 @accall @accall @accall @accall @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall @accall @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accall sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 sarincefina-teng' by sarincefina-teng.top;\012\012	sub @sarinceBottom0' @accall @accall @accall @accall @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall @accall @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accall sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' sarincefina-teng by @sarinceBottom1;\012} sarince;\012\012lookup dotinsideContextual {\012	sub dottedCircle' dotinside-teng by dottedCircle.circle;\012} dotinsideContextual;\012\012lookup dotinsideLigature {\012	sub vala-teng dotinside-teng by vala_dotinside-teng;\012	sub vilya-teng dotinside-teng by vilya_dotinside-teng;\012} dotinsideLigature;\012";
 name = ccmp;
 },
 {
@@ -11158,215 +11160,6 @@ note = uni007A;
 unicode = 007A;
 },
 {
-color = 9;
-glyphname = "vala_dotinside-teng";
-lastChange = "2022-01-04 13:32:56 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-position = "{305, 0}";
-},
-{
-name = bottomleft;
-position = "{52, 0}";
-},
-{
-name = top;
-position = "{305, 400}";
-}
-);
-components = (
-{
-name = "vala-teng";
-}
-);
-layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
-paths = (
-{
-closed = 1;
-nodes = (
-"349 132 LINE SMOOTH",
-"349 183 OFFCURVE",
-"361 211 OFFCURVE",
-"388 240 CURVE",
-"388 247 OFFCURVE",
-"379 259 OFFCURVE",
-"371 259 CURVE",
-"307 225 OFFCURVE",
-"271 181 OFFCURVE",
-"271 110 CURVE SMOOTH",
-"271 40 LINE",
-"349 40 LINE"
-);
-}
-);
-width = 640;
-},
-{
-anchors = (
-{
-name = bottom;
-position = "{335, 0}";
-},
-{
-name = bottomleft;
-position = "{62, 0}";
-},
-{
-name = top;
-position = "{335, 420}";
-}
-);
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"359 132 LINE SMOOTH",
-"359 183 OFFCURVE",
-"371 211 OFFCURVE",
-"398 240 CURVE",
-"398 247 OFFCURVE",
-"389 259 OFFCURVE",
-"381 259 CURVE",
-"317 225 OFFCURVE",
-"281 181 OFFCURVE",
-"281 110 CURVE SMOOTH",
-"281 40 LINE",
-"359 40 LINE"
-);
-}
-);
-};
-components = (
-{
-name = "vala-teng";
-}
-);
-layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
-paths = (
-{
-closed = 1;
-nodes = (
-"389 142 LINE SMOOTH",
-"389 193 OFFCURVE",
-"401 221 OFFCURVE",
-"428 250 CURVE",
-"428 257 OFFCURVE",
-"419 269 OFFCURVE",
-"411 269 CURVE",
-"328 230 OFFCURVE",
-"281 181 OFFCURVE",
-"281 100 CURVE SMOOTH",
-"281 40 LINE",
-"389 40 LINE"
-);
-}
-);
-width = 695;
-}
-);
-leftMetricsKey = "nuumen-teng";
-rightKerningGroup = RoundBottom;
-rightMetricsKey = "parma-teng";
-},
-{
-color = 9;
-glyphname = "vilya_dotinside-teng";
-lastChange = "2022-01-04 13:33:01 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-position = "{310, 0}";
-},
-{
-name = bottomleft;
-position = "{70, 0}";
-},
-{
-name = top;
-position = "{330, 400}";
-}
-);
-components = (
-{
-name = "vilya-teng";
-}
-);
-layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
-paths = (
-{
-closed = 1;
-nodes = (
-"275 268 LINE SMOOTH",
-"275 217 OFFCURVE",
-"263 189 OFFCURVE",
-"236 160 CURVE",
-"236 153 OFFCURVE",
-"245 141 OFFCURVE",
-"253 141 CURVE",
-"317 175 OFFCURVE",
-"353 219 OFFCURVE",
-"353 290 CURVE SMOOTH",
-"353 360 LINE",
-"275 360 LINE"
-);
-}
-);
-width = 638;
-},
-{
-anchors = (
-{
-name = bottom;
-position = "{320, 0}";
-},
-{
-name = bottomleft;
-position = "{70, 0}";
-},
-{
-name = top;
-position = "{340, 420}";
-}
-);
-components = (
-{
-name = "vilya-teng";
-}
-);
-layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
-paths = (
-{
-closed = 1;
-nodes = (
-"270 258 LINE SMOOTH",
-"270 207 OFFCURVE",
-"258 179 OFFCURVE",
-"231 150 CURVE",
-"231 143 OFFCURVE",
-"240 131 OFFCURVE",
-"248 131 CURVE",
-"331 170 OFFCURVE",
-"378 219 OFFCURVE",
-"378 300 CURVE SMOOTH",
-"378 360 LINE",
-"270 360 LINE"
-);
-}
-);
-width = 668;
-}
-);
-leftKerningGroup = quesse;
-leftMetricsKey = "vilya-teng";
-rightMetricsKey = "=|nuumen-teng";
-},
-{
 color = 5;
 glyphname = "tinco-teng";
 lastChange = "2022-01-04 13:28:26 +0000";
@@ -12053,7 +11846,7 @@ unicode = E007;
 {
 color = 5;
 glyphname = "thuule-teng";
-lastChange = "2022-01-04 13:31:08 +0000";
+lastChange = "2023-07-02 09:18:15 +0000";
 layers = (
 {
 anchors = (
@@ -15331,7 +15124,7 @@ unicode = E023;
 {
 color = 5;
 glyphname = "silme-teng";
-lastChange = "2022-01-06 02:42:43 +0000";
+lastChange = "2023-07-02 10:00:09 +0000";
 layers = (
 {
 anchors = (
@@ -15342,6 +15135,10 @@ position = "{254, 0}";
 {
 name = bottomleft;
 position = "{70, 0}";
+},
+{
+name = macron;
+position = "{184, 400}";
 },
 {
 name = top;
@@ -15550,6 +15347,10 @@ position = "{249, 0}";
 {
 name = bottomleft;
 position = "{65, 0}";
+},
+{
+name = macron;
+position = "{189, 420}";
 },
 {
 name = top;
@@ -15809,7 +15610,7 @@ unicode = E025;
 {
 color = 5;
 glyphname = "aare-teng";
-lastChange = "2022-01-04 13:37:27 +0000";
+lastChange = "2023-07-02 10:01:23 +0000";
 layers = (
 {
 anchors = (
@@ -15820,6 +15621,10 @@ position = "{236, -190}";
 {
 name = bottomleft;
 position = "{-60, -150}";
+},
+{
+name = macron;
+position = "{158, 400}";
 },
 {
 name = top;
@@ -16136,6 +15941,10 @@ position = "{237, -196}";
 {
 name = bottomleft;
 position = "{-35, -150}";
+},
+{
+name = macron;
+position = "{173, 420}";
 },
 {
 name = top;
@@ -26254,6 +26063,215 @@ leftKerningGroup = hyarmen;
 widthMetricsKey = "hyarmen-teng";
 rightKerningGroup = hyarmen;
 rightMetricsKey = "hyarmen-teng";
+},
+{
+color = 9;
+glyphname = "vala_dotinside-teng";
+lastChange = "2022-01-04 13:32:56 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = bottomleft;
+position = "{52, 0}";
+},
+{
+name = top;
+position = "{305, 400}";
+}
+);
+components = (
+{
+name = "vala-teng";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+paths = (
+{
+closed = 1;
+nodes = (
+"349 132 LINE SMOOTH",
+"349 183 OFFCURVE",
+"361 211 OFFCURVE",
+"388 240 CURVE",
+"388 247 OFFCURVE",
+"379 259 OFFCURVE",
+"371 259 CURVE",
+"307 225 OFFCURVE",
+"271 181 OFFCURVE",
+"271 110 CURVE SMOOTH",
+"271 40 LINE",
+"349 40 LINE"
+);
+}
+);
+width = 640;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{335, 0}";
+},
+{
+name = bottomleft;
+position = "{62, 0}";
+},
+{
+name = top;
+position = "{335, 420}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"359 132 LINE SMOOTH",
+"359 183 OFFCURVE",
+"371 211 OFFCURVE",
+"398 240 CURVE",
+"398 247 OFFCURVE",
+"389 259 OFFCURVE",
+"381 259 CURVE",
+"317 225 OFFCURVE",
+"281 181 OFFCURVE",
+"281 110 CURVE SMOOTH",
+"281 40 LINE",
+"359 40 LINE"
+);
+}
+);
+};
+components = (
+{
+name = "vala-teng";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+paths = (
+{
+closed = 1;
+nodes = (
+"389 142 LINE SMOOTH",
+"389 193 OFFCURVE",
+"401 221 OFFCURVE",
+"428 250 CURVE",
+"428 257 OFFCURVE",
+"419 269 OFFCURVE",
+"411 269 CURVE",
+"328 230 OFFCURVE",
+"281 181 OFFCURVE",
+"281 100 CURVE SMOOTH",
+"281 40 LINE",
+"389 40 LINE"
+);
+}
+);
+width = 695;
+}
+);
+leftMetricsKey = "nuumen-teng";
+rightKerningGroup = RoundBottom;
+rightMetricsKey = "parma-teng";
+},
+{
+color = 9;
+glyphname = "vilya_dotinside-teng";
+lastChange = "2022-01-04 13:33:01 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{310, 0}";
+},
+{
+name = bottomleft;
+position = "{70, 0}";
+},
+{
+name = top;
+position = "{330, 400}";
+}
+);
+components = (
+{
+name = "vilya-teng";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+paths = (
+{
+closed = 1;
+nodes = (
+"275 268 LINE SMOOTH",
+"275 217 OFFCURVE",
+"263 189 OFFCURVE",
+"236 160 CURVE",
+"236 153 OFFCURVE",
+"245 141 OFFCURVE",
+"253 141 CURVE",
+"317 175 OFFCURVE",
+"353 219 OFFCURVE",
+"353 290 CURVE SMOOTH",
+"353 360 LINE",
+"275 360 LINE"
+);
+}
+);
+width = 638;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{320, 0}";
+},
+{
+name = bottomleft;
+position = "{70, 0}";
+},
+{
+name = top;
+position = "{340, 420}";
+}
+);
+components = (
+{
+name = "vilya-teng";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+paths = (
+{
+closed = 1;
+nodes = (
+"270 258 LINE SMOOTH",
+"270 207 OFFCURVE",
+"258 179 OFFCURVE",
+"231 150 CURVE",
+"231 143 OFFCURVE",
+"240 131 OFFCURVE",
+"248 131 CURVE",
+"331 170 OFFCURVE",
+"378 219 OFFCURVE",
+"378 300 CURVE SMOOTH",
+"378 360 LINE",
+"270 360 LINE"
+);
+}
+);
+width = 668;
+}
+);
+leftKerningGroup = quesse;
+leftMetricsKey = "vilya-teng";
+rightMetricsKey = "=|nuumen-teng";
 },
 {
 color = 9;
@@ -48776,7 +48794,7 @@ unicode = E076;
 },
 {
 glyphname = "seven-teng";
-lastChange = "2022-01-07 15:45:59 +0000";
+lastChange = "2023-07-02 09:30:17 +0000";
 layers = (
 {
 anchors = (
@@ -48913,12 +48931,12 @@ layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
 width = 345;
 }
 );
-leftKerningGroup = seven;
+rightKerningGroup = seven;
 unicode = E077;
 },
 {
 glyphname = "eight-teng";
-lastChange = "2022-01-07 15:45:59 +0000";
+lastChange = "2023-07-02 09:30:17 +0000";
 layers = (
 {
 anchors = (
@@ -49143,14 +49161,14 @@ nodes = (
 width = 895;
 }
 );
-leftKerningGroup = seven;
 leftMetricsKey = "seven-teng";
+rightKerningGroup = seven;
 rightMetricsKey = "parma-teng";
 unicode = E078;
 },
 {
 glyphname = "nine-teng";
-lastChange = "2022-01-07 15:45:59 +0000";
+lastChange = "2023-07-02 09:30:17 +0000";
 layers = (
 {
 anchors = (
@@ -49451,8 +49469,8 @@ nodes = (
 width = 1155;
 }
 );
-leftKerningGroup = seven;
 leftMetricsKey = "seven-teng";
+rightKerningGroup = seven;
 rightMetricsKey = "parma-teng";
 unicode = E079;
 },
@@ -57740,6 +57758,58 @@ note = uni0039;
 unicode = 0039;
 },
 {
+glyphname = space;
+lastChange = "2016-04-06 22:25:08 +0000";
+layers = (
+{
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 200;
+},
+{
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 200;
+}
+);
+unicode = 0020;
+},
+{
+glyphname = zerowidthnonjoiner;
+lastChange = "2022-04-08 13:20:21 +0000";
+layers = (
+{
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+paths = (
+{
+closed = 1;
+nodes = (
+"-16 -260 LINE",
+"16 -260 LINE",
+"16 700 LINE",
+"-16 700 LINE"
+);
+}
+);
+width = 0;
+},
+{
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+paths = (
+{
+closed = 1;
+nodes = (
+"-16 -260 LINE",
+"16 -260 LINE",
+"16 700 LINE",
+"-16 700 LINE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 200C;
+},
+{
 glyphname = zerowidthjoiner;
 lastChange = "2022-04-08 13:19:05 +0000";
 layers = (
@@ -57811,58 +57881,6 @@ width = 0;
 }
 );
 unicode = 200D;
-},
-{
-glyphname = zerowidthnonjoiner;
-lastChange = "2022-04-08 13:20:21 +0000";
-layers = (
-{
-layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
-paths = (
-{
-closed = 1;
-nodes = (
-"-16 -260 LINE",
-"16 -260 LINE",
-"16 700 LINE",
-"-16 700 LINE"
-);
-}
-);
-width = 0;
-},
-{
-layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
-paths = (
-{
-closed = 1;
-nodes = (
-"-16 -260 LINE",
-"16 -260 LINE",
-"16 700 LINE",
-"-16 700 LINE"
-);
-}
-);
-width = 0;
-}
-);
-unicode = 200C;
-},
-{
-glyphname = space;
-lastChange = "2016-04-06 22:25:08 +0000";
-layers = (
-{
-layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
-width = 200;
-},
-{
-layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
-width = 200;
-}
-);
-unicode = 0020;
 },
 {
 glyphname = "paragraph-georgian";
@@ -58870,9 +58888,19 @@ width = 792;
 },
 {
 glyphname = "pusta-teng";
-lastChange = "2022-01-05 14:07:54 +0000";
+lastChange = "2023-07-02 10:08:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{126, 0}";
+},
+{
+name = top;
+position = "{126, 400}";
+}
+);
 layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
 paths = (
 {
@@ -58896,6 +58924,16 @@ nodes = (
 width = 252;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{141, 0}";
+},
+{
+name = top;
+position = "{141, 420}";
+}
+);
 layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
 paths = (
 {
@@ -58923,9 +58961,19 @@ unicode = E060;
 },
 {
 glyphname = "pustadbl-teng";
-lastChange = "2016-04-15 23:13:16 +0000";
+lastChange = "2023-07-02 10:08:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{146, 0}";
+},
+{
+name = top;
+position = "{146, 400}";
+}
+);
 layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
 paths = (
 {
@@ -58966,6 +59014,16 @@ nodes = (
 width = 292;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{156, 0}";
+},
+{
+name = top;
+position = "{156, 420}";
+}
+);
 layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
 paths = (
 {
@@ -59010,9 +59068,19 @@ unicode = E061;
 },
 {
 glyphname = "pustatriple-teng";
-lastChange = "2016-04-15 23:13:05 +0000";
+lastChange = "2023-07-02 10:09:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{143, -30}";
+},
+{
+name = top;
+position = "{143, 430}";
+}
+);
 layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
 paths = (
 {
@@ -59070,6 +59138,16 @@ nodes = (
 width = 286;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{153, -40}";
+},
+{
+name = top;
+position = "{153, 460}";
+}
+);
 layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
 paths = (
 {
@@ -70052,6 +70130,55 @@ rightMetricsKey = "=20";
 unicode = E046;
 },
 {
+glyphname = "acutebelow-teng";
+lastChange = "2022-01-06 14:32:57 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{114, 0}";
+},
+{
+name = bottom;
+position = "{134, -249}";
+}
+);
+components = (
+{
+name = "acute-teng";
+transform = "{1, 0, 0, 1, 0, -730}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 267;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{114, 0}";
+},
+{
+name = bottom;
+position = "{134, -249}";
+}
+);
+components = (
+{
+name = "acute-teng";
+transform = "{1, 0, 0, 1, 0, -750}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 278;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E047;
+},
+{
 glyphname = "acute_acute-teng";
 lastChange = "2022-04-08 12:40:31 +0000";
 layers = (
@@ -70215,55 +70342,6 @@ width = 385;
 leftMetricsKey = "=20";
 rightMetricsKey = "=20";
 unicode = E048;
-},
-{
-glyphname = "acutebelow-teng";
-lastChange = "2022-01-06 14:32:57 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{114, 0}";
-},
-{
-name = bottom;
-position = "{134, -249}";
-}
-);
-components = (
-{
-name = "acute-teng";
-transform = "{1, 0, 0, 1, 0, -730}";
-}
-);
-layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
-width = 267;
-},
-{
-anchors = (
-{
-name = _bottom;
-position = "{114, 0}";
-},
-{
-name = bottom;
-position = "{134, -249}";
-}
-);
-components = (
-{
-name = "acute-teng";
-transform = "{1, 0, 0, 1, 0, -750}";
-}
-);
-layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
-width = 278;
-}
-);
-leftMetricsKey = "=20";
-rightMetricsKey = "=20";
-unicode = E047;
 },
 {
 glyphname = "acutebelow_acutebelow-teng";
@@ -71140,55 +71218,6 @@ leftMetricsKey = "=20";
 rightMetricsKey = "=20";
 },
 {
-glyphname = "leftcurlbelow-teng";
-lastChange = "2022-01-06 14:32:57 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{159, 0}";
-},
-{
-name = bottom;
-position = "{157, -258}";
-}
-);
-components = (
-{
-name = "rightcurl-teng";
-transform = "{-1, 0, 0, -1, 303, 405}";
-}
-);
-layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
-width = 303;
-},
-{
-anchors = (
-{
-name = _bottom;
-position = "{165, 0}";
-},
-{
-name = bottom;
-position = "{163, -268}";
-}
-);
-components = (
-{
-name = "rightcurl-teng";
-transform = "{-1, 0, 0, -1, 309, 425}";
-}
-);
-layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
-width = 309;
-}
-);
-leftMetricsKey = "=20";
-rightMetricsKey = "=20";
-unicode = E04D;
-},
-{
 color = 9;
 glyphname = "ring-teng";
 lastChange = "2022-01-06 14:32:57 +0000";
@@ -71471,7 +71500,7 @@ unicode = E04F;
 },
 {
 glyphname = "macron-teng";
-lastChange = "2022-01-06 14:32:57 +0000";
+lastChange = "2023-07-02 09:49:39 +0000";
 layers = (
 {
 anchors = (
@@ -73101,6 +73130,55 @@ rightMetricsKey = "=20";
 unicode = E05A;
 },
 {
+glyphname = "leftcurlbelow-teng";
+lastChange = "2022-01-06 14:32:57 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{159, 0}";
+},
+{
+name = bottom;
+position = "{157, -258}";
+}
+);
+components = (
+{
+name = "rightcurl-teng";
+transform = "{-1, 0, 0, -1, 303, 405}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 303;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{165, 0}";
+},
+{
+name = bottom;
+position = "{163, -268}";
+}
+);
+components = (
+{
+name = "rightcurl-teng";
+transform = "{-1, 0, 0, -1, 309, 425}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 309;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E04D;
+},
+{
 color = 9;
 glyphname = "rightcurlbelowright-teng";
 lastChange = "2022-01-06 14:32:57 +0000";
@@ -74478,7 +74556,7 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.shortR";
-lastChange = "2022-01-06 14:32:57 +0000";
+lastChange = "2023-07-02 09:48:56 +0000";
 layers = (
 {
 anchors = (
@@ -74681,6 +74759,154 @@ transform = "{1, 0, 0, 1, 0, -685}";
 );
 layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
 width = 438;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+},
+{
+glyphname = "macron-teng.silme";
+lastChange = "2023-07-02 10:07:42 +0000";
+layers = (
+{
+anchors = (
+{
+name = _macron;
+position = "{174, 400}";
+},
+{
+name = top;
+position = "{194, 539}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"43 496 OFFCURVE",
+"58 498 OFFCURVE",
+"103 498 CURVE SMOOTH",
+"201 498 LINE SMOOTH",
+"258 498 OFFCURVE",
+"293 511 OFFCURVE",
+"328 535 CURVE",
+"328 541 OFFCURVE",
+"323 552 OFFCURVE",
+"319 554 CURVE",
+"305 550 OFFCURVE",
+"290 548 OFFCURVE",
+"245 548 CURVE SMOOTH",
+"147 548 LINE SMOOTH",
+"90 548 OFFCURVE",
+"55 535 OFFCURVE",
+"20 511 CURVE",
+"20 505 OFFCURVE",
+"25 494 OFFCURVE",
+"29 492 CURVE"
+);
+}
+);
+};
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+paths = (
+{
+closed = 1;
+nodes = (
+"43 496 OFFCURVE",
+"58 498 OFFCURVE",
+"103 498 CURVE SMOOTH",
+"151 498 LINE SMOOTH",
+"204 498 OFFCURVE",
+"236 511 OFFCURVE",
+"268 535 CURVE",
+"268 541 OFFCURVE",
+"263 552 OFFCURVE",
+"259 554 CURVE",
+"247 550 OFFCURVE",
+"234 548 OFFCURVE",
+"195 548 CURVE SMOOTH",
+"147 548 LINE SMOOTH",
+"90 548 OFFCURVE",
+"55 535 OFFCURVE",
+"20 511 CURVE",
+"20 505 OFFCURVE",
+"25 494 OFFCURVE",
+"29 492 CURVE"
+);
+}
+);
+width = 288;
+},
+{
+anchors = (
+{
+name = _macron;
+position = "{174, 420}";
+},
+{
+name = top;
+position = "{194, 589}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"43 511 OFFCURVE",
+"58 513 OFFCURVE",
+"103 513 CURVE SMOOTH",
+"201 513 LINE SMOOTH",
+"258 513 OFFCURVE",
+"293 538 OFFCURVE",
+"328 580 CURVE",
+"328 586 OFFCURVE",
+"323 597 OFFCURVE",
+"319 599 CURVE",
+"305 595 OFFCURVE",
+"290 593 OFFCURVE",
+"245 593 CURVE SMOOTH",
+"147 593 LINE SMOOTH",
+"90 593 OFFCURVE",
+"55 568 OFFCURVE",
+"20 526 CURVE",
+"20 520 OFFCURVE",
+"25 509 OFFCURVE",
+"29 507 CURVE"
+);
+}
+);
+};
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+paths = (
+{
+closed = 1;
+nodes = (
+"43 511 OFFCURVE",
+"58 513 OFFCURVE",
+"103 513 CURVE SMOOTH",
+"171 513 LINE SMOOTH",
+"228 513 OFFCURVE",
+"263 538 OFFCURVE",
+"298 580 CURVE",
+"298 586 OFFCURVE",
+"293 597 OFFCURVE",
+"289 599 CURVE",
+"275 595 OFFCURVE",
+"260 593 OFFCURVE",
+"215 593 CURVE SMOOTH",
+"147 593 LINE SMOOTH",
+"90 593 OFFCURVE",
+"55 568 OFFCURVE",
+"20 526 CURVE",
+"20 520 OFFCURVE",
+"25 509 OFFCURVE",
+"29 507 CURVE"
+);
+}
+);
+width = 318;
 }
 );
 leftMetricsKey = "=20";
@@ -80674,5 +80900,5 @@ period = {
 };
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 70;
+versionMinor = 80;
 }
