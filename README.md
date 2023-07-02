@@ -28,11 +28,14 @@ Alcarin Tengwar is not in any official way associated with either Koninklijke Br
 Also, I am a typeface designer, not a linguist. My knowledge on Tengwar and is rusty; if/when you raise issues, I would appreciate an attitude and vocabulary as if you would explain to a newbie.
 
 ## Font change log
+0.83 2 Jul 2023
+- Added hwesta_tinco ligature.
+
 0.82 2 Jul 2023
 - Added missing bottom anchor to silme_harma.
 
 0.81 2 Jul 2023
-- Added secondary bottom anchor to lambe and alda to avoid second bottom diacritic to crash.
+- Added secondary bottom anchor to Lambe and Alda to avoid second bottom diacritic to crash.
 - Renamed calma_thuule ligature to harma_tinco; the former was seemingly a misinterpretation.
 
 0.80 : 2 Jul 2023
@@ -70,5 +73,3 @@ Also, I am a typeface designer, not a linguist. My knowledge on Tengwar and is r
 
 0.6 : 4 Jan 2022
 - Initial public release.
-
-
